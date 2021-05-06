@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="543.749" y="99.4558" z="931.748"/>
+		<Position x="685.739" y="91.1434" z="992.645"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -3880,14 +3880,14 @@
 		<Entity uid="791">
 			<Template>gaia/rock/sahara_cut</Template>
 			<Player>0</Player>
-			<Position x="821.74207" z="1104.59485"/>
+			<Position x="822.8553" z="1102.39759"/>
 			<Orientation y="1.65609"/>
 			<Actor seed="63486"/>
 		</Entity>
 		<Entity uid="792">
 			<Template>gaia/rock/sahara_cut</Template>
 			<Player>0</Player>
-			<Position x="826.93805" z="1110.5088"/>
+			<Position x="827.95521" z="1109.96668"/>
 			<Orientation y="3.021"/>
 			<Actor seed="9788"/>
 		</Entity>
@@ -3901,15 +3901,15 @@
 		<Entity uid="794">
 			<Template>gaia/rock/sahara_cut</Template>
 			<Player>0</Player>
-			<Position x="839.81305" z="1115.089"/>
+			<Position x="840.03156" z="1112.17664"/>
 			<Orientation y="-17.65491"/>
 			<Actor seed="59446"/>
 		</Entity>
 		<Entity uid="795">
 			<Template>gaia/rock/sahara_cut</Template>
 			<Player>0</Player>
-			<Position x="847.36054" z="1112.46717"/>
-			<Orientation y="2.96294"/>
+			<Position x="847.05127" z="1108.38013"/>
+			<Orientation y="-2.66471"/>
 			<Actor seed="65000"/>
 		</Entity>
 		<Entity uid="796">
@@ -9925,7 +9925,7 @@
 		<Entity uid="1938">
 			<Template>gaia/treasure/stone_pile_sandstone</Template>
 			<Player>0</Player>
-			<Position x="672.11725" z="442.11432"/>
+			<Position x="672.13471" z="437.49888"/>
 			<Orientation y="2.76093"/>
 			<Actor seed="24764"/>
 		</Entity>
