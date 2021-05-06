@@ -3,7 +3,7 @@
 <Scenario version="7">
 	<Environment>
 		<SkySet>cloudless</SkySet>
-		<SunColor r="1.17553" g="1.10177" b="0.968084"/>
+		<SunColor r="1.17553" g="1.09716" b="0.968084"/>
 		<SunElevation angle="0.671884"/>
 		<SunRotation angle="-1.86532"/>
 		<AmbientColor r="0.364706" g="0.376471" b="0.419608"/>
@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="501.092" y="103.411" z="585.712"/>
+		<Position x="415.401" y="95.3831" z="121.998"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -332,114 +332,114 @@
 		<Entity uid="67">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="332.1037" z="312.8722"/>
-			<Orientation y="1.18943"/>
+			<Position x="401.692" z="177.96302"/>
+			<Orientation y="-3.06528"/>
 			<Actor seed="56518"/>
 		</Entity>
 		<Entity uid="68">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="319.79468" z="319.88791"/>
-			<Orientation y="-9.96637"/>
+			<Position x="429.99756" z="176.74189"/>
+			<Orientation y="-12.83906"/>
 			<Actor seed="35576"/>
 		</Entity>
 		<Entity uid="71">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="312.67023" z="316.995"/>
-			<Orientation y="1.97838"/>
+			<Position x="415.91529" z="171.64585"/>
+			<Orientation y="-0.89431"/>
 			<Actor seed="3508"/>
 		</Entity>
 		<Entity uid="72">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="308.22098" z="309.3852"/>
-			<Orientation y="2.21071"/>
+			<Position x="422.05567" z="175.30207"/>
+			<Orientation y="-0.66198"/>
 			<Actor seed="44592"/>
 		</Entity>
 		<Entity uid="74">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="327.32413" z="318.31656"/>
-			<Orientation y="2.21071"/>
+			<Position x="408.62629" z="173.31247"/>
+			<Orientation y="0.20958"/>
 			<Actor seed="36640"/>
 		</Entity>
 		<Entity uid="76">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="308.76432" z="319.8766"/>
-			<Orientation y="-2.34809"/>
+			<Position x="424.05668" z="167.00293"/>
+			<Orientation y="-5.22077"/>
 			<Actor seed="35762"/>
 		</Entity>
 		<Entity uid="77">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="327.11115" z="326.11954"/>
-			<Orientation y="-8.54699"/>
+			<Position x="405.06025" z="168.81043"/>
+			<Orientation y="-9.82851"/>
 			<Actor seed="42364"/>
 		</Entity>
 		<Entity uid="78">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="318.7024" z="323.4308"/>
-			<Orientation y="-10.0854"/>
+			<Position x="413.5315" z="166.21677"/>
+			<Orientation y="-12.95807"/>
 			<Actor seed="24460"/>
 		</Entity>
 		<Entity uid="79">
 			<Template>actor|props/structures/construction/scaffold.xml</Template>
-			<Position x="307.53748" z="310.21848"/>
-			<Orientation y="2.32328"/>
+			<Position x="428.00931" z="173.46924"/>
+			<Orientation y="1.12676"/>
 			<Actor seed="31872"/>
 		</Entity>
 		<Entity uid="80">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="314.61695" z="322.09522"/>
-			<Orientation y="2.35621"/>
+			<Position x="417.82496" z="166.41895"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="46546"/>
 		</Entity>
 		<Entity uid="81">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="320.86045" z="324.63086"/>
-			<Orientation y="-2.2225"/>
+			<Position x="411.13218" z="165.63318"/>
+			<Orientation y="-5.09517"/>
 			<Actor seed="56268"/>
 		</Entity>
 		<Entity uid="82">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="323.80015" z="326.9275"/>
-			<Orientation y="2.35621"/>
+			<Position x="408.59052" z="169.58558"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="58984"/>
 		</Entity>
 		<Entity uid="83">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="333.55372" z="323.97962"/>
-			<Orientation y="2.35621"/>
+			<Position x="401.7375" z="168.43601"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="22350"/>
 		</Entity>
 		<Entity uid="84">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="310.05915" z="324.69626"/>
-			<Orientation y="-2.51247"/>
+			<Position x="407.33744" z="165.05402"/>
+			<Orientation y="-5.38515"/>
 			<Actor seed="48986"/>
 		</Entity>
 		<Entity uid="85">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="305.67664" z="317.13651"/>
-			<Orientation y="2.35621"/>
+			<Position x="427.76136" z="168.8242"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="36952"/>
 		</Entity>
 		<Entity uid="86">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="302.42637" z="310.39158"/>
-			<Orientation y="2.35621"/>
+			<Position x="420.44745" z="164.2157"/>
+			<Orientation y="3.14492"/>
 			<Actor seed="54738"/>
 		</Entity>
 		<Entity uid="87">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="333.57752" z="318.58005"/>
-			<Orientation y="-1.6585"/>
+			<Position x="400.6684" z="170.89826"/>
+			<Orientation y="-4.53118"/>
 			<Actor seed="43610"/>
 		</Entity>
 		<Entity uid="88">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="308.03895" z="313.70606"/>
-			<Orientation y="-0.58066"/>
+			<Position x="426.39536" z="172.75898"/>
+			<Orientation y="-3.45334"/>
 			<Actor seed="36952"/>
 		</Entity>
 		<Entity uid="90">
@@ -802,109 +802,109 @@
 		<Entity uid="179">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="680.62574" z="795.90601"/>
-			<Orientation y="-3.78995"/>
+			<Position x="594.4795" z="758.83277"/>
+			<Orientation y="-3.70423"/>
 		</Entity>
 		<Entity uid="180">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="667.36042" z="790.00806"/>
-			<Orientation y="-10.29085"/>
+			<Position x="580.50403" z="755.63703"/>
+			<Orientation y="-10.20513"/>
 		</Entity>
 		<Entity uid="181">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="661.47663" z="786.1189"/>
-			<Orientation y="1.88624"/>
+			<Position x="574.56275" z="750.7212"/>
+			<Orientation y="1.97196"/>
 		</Entity>
 		<Entity uid="182">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="659.55542" z="778.82856"/>
-			<Orientation y="1.88624"/>
+			<Position x="572.02436" z="743.62214"/>
+			<Orientation y="1.97196"/>
 		</Entity>
 		<Entity uid="183">
 			<Template>gaia/rock/india_cut</Template>
 			<Player>0</Player>
-			<Position x="673.58155" z="793.61902"/>
-			<Orientation y="1.88624"/>
+			<Position x="587.26539" z="757.15735"/>
+			<Orientation y="1.97196"/>
 		</Entity>
 		<Entity uid="184">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="656.52155" z="787.41651"/>
-			<Orientation y="-2.67257"/>
+			<Position x="569.73694" z="752.4383"/>
+			<Orientation y="-2.58684"/>
 			<Actor seed="35762"/>
 		</Entity>
 		<Entity uid="185">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="672.12476" z="800.71204"/>
-			<Orientation y="-8.87148"/>
+			<Position x="586.42127" z="764.349"/>
+			<Orientation y="-8.78576"/>
 			<Actor seed="42364"/>
 		</Entity>
 		<Entity uid="186">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="665.01203" z="795.4828"/>
-			<Orientation y="-10.40989"/>
+			<Position x="578.88691" z="759.748"/>
+			<Orientation y="-10.32416"/>
 			<Actor seed="24460"/>
 		</Entity>
 		<Entity uid="187">
 			<Template>actor|props/structures/construction/scaffold.xml</Template>
-			<Position x="658.64191" z="779.4004"/>
-			<Orientation y="1.9988"/>
+			<Position x="571.16321" z="744.27009"/>
+			<Orientation y="2.08452"/>
 			<Actor seed="31872"/>
 		</Entity>
 		<Entity uid="188">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="661.56556" z="792.91443"/>
-			<Orientation y="2.03174"/>
+			<Position x="575.23316" z="757.48414"/>
+			<Orientation y="2.11747"/>
 			<Actor seed="46546"/>
 		</Entity>
 		<Entity uid="189">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="668.28766" z="795.86695"/>
-			<Orientation y="-2.54699"/>
+			<Position x="582.18342" z="759.85029"/>
+			<Orientation y="-2.46126"/>
 			<Actor seed="56268"/>
 		</Entity>
 		<Entity uid="190">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="668.72895" z="800.42219"/>
-			<Orientation y="2.03174"/>
+			<Position x="583.01313" z="764.35102"/>
+			<Orientation y="2.11747"/>
 			<Actor seed="58984"/>
 		</Entity>
 		<Entity uid="191">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="678.9134" z="800.73768"/>
-			<Orientation y="2.03174"/>
+			<Position x="593.18714" z="763.79334"/>
+			<Orientation y="2.11747"/>
 			<Actor seed="22350"/>
 		</Entity>
 		<Entity uid="192">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="656.44208" z="790.83588"/>
-			<Orientation y="-2.83695"/>
+			<Position x="569.95057" z="755.85193"/>
+			<Orientation y="-2.75123"/>
 			<Actor seed="48986"/>
 		</Entity>
 		<Entity uid="193">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="654.67261" z="785.36426"/>
-			<Orientation y="2.03174"/>
+			<Position x="567.71912" z="750.55188"/>
+			<Orientation y="2.11747"/>
 			<Actor seed="36952"/>
 		</Entity>
 		<Entity uid="194">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="653.74225" z="777.935"/>
-			<Orientation y="2.03174"/>
+			<Position x="564.35767" z="747.33045"/>
+			<Orientation y="-3.32024"/>
 			<Actor seed="54738"/>
 		</Entity>
 		<Entity uid="195">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="676.09498" z="805.50306"/>
-			<Orientation y="-1.98298"/>
+			<Position x="590.78711" z="768.78254"/>
+			<Orientation y="-1.89725"/>
 			<Actor seed="43610"/>
 		</Entity>
 		<Entity uid="196">
 			<Template>actor|geology/stone_india_quarried.xml</Template>
-			<Position x="658.00532" z="782.86591"/>
-			<Orientation y="-0.90514"/>
+			<Position x="573.73194" z="759.04969"/>
+			<Orientation y="-0.81942"/>
 			<Actor seed="36952"/>
 		</Entity>
 		<Entity uid="197">
@@ -2656,7 +2656,7 @@
 		<Entity uid="460">
 			<Template>gaia/tree/poplar_dead</Template>
 			<Player>0</Player>
-			<Position x="584.8584" z="721.83313"/>
+			<Position x="446.61686" z="760.4842"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="53046"/>
 		</Entity>
@@ -2734,7 +2734,7 @@
 		<Entity uid="472">
 			<Template>gaia/tree/poplar_dead</Template>
 			<Player>0</Player>
-			<Position x="398.89078" z="187.49994"/>
+			<Position x="398.93107" z="194.40125"/>
 			<Orientation y="1.03644"/>
 			<Actor seed="30406"/>
 		</Entity>
@@ -3105,77 +3105,77 @@
 		<Entity uid="532">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="585.14667" z="756.77387"/>
+			<Position x="464.78226" z="804.45856"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="30786"/>
 		</Entity>
 		<Entity uid="533">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="580.01087" z="752.80958"/>
+			<Position x="459.64649" z="800.49427"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="29600"/>
 		</Entity>
 		<Entity uid="534">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="569.9737" z="742.27674"/>
+			<Position x="449.60932" z="789.96143"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="19254"/>
 		</Entity>
 		<Entity uid="535">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="573.42402" z="738.25232"/>
+			<Position x="453.05964" z="785.93702"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18116"/>
 		</Entity>
 		<Entity uid="536">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="581.99042" z="742.95069"/>
+			<Position x="461.62604" z="790.63538"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="44812"/>
 		</Entity>
 		<Entity uid="537">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="586.037" z="749.34095"/>
+			<Position x="465.67252" z="797.02564"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16314"/>
 		</Entity>
 		<Entity uid="538">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="584.91596" z="737.23182"/>
+			<Position x="464.55155" z="784.91651"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8702"/>
 		</Entity>
 		<Entity uid="539">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="581.48554" z="733.42334"/>
+			<Position x="461.12116" z="781.10804"/>
 			<Orientation y="-1.82642"/>
 			<Actor seed="27566"/>
 		</Entity>
 		<Entity uid="540">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="573.54896" z="728.77961"/>
+			<Position x="453.18458" z="776.4643"/>
 			<Orientation y="-2.61078"/>
 			<Actor seed="13578"/>
 		</Entity>
 		<Entity uid="541">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="566.92438" z="721.15601"/>
+			<Position x="575.7602" z="726.7959"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65048"/>
 		</Entity>
 		<Entity uid="542">
 			<Template>gaia/tree/juniper_prickly</Template>
 			<Player>0</Player>
-			<Position x="562.99476" z="733.30213"/>
+			<Position x="561.4264" z="730.89283"/>
 			<Orientation y="0.47632"/>
 			<Actor seed="27246"/>
 		</Entity>
@@ -4001,14 +4001,14 @@
 		<Entity uid="661">
 			<Template>gaia/fauna_cattle_zebu</Template>
 			<Player>2</Player>
-			<Position x="420.15751" z="189.57096"/>
+			<Position x="402.91932" z="209.13398"/>
 			<Orientation y="-2.24202"/>
 			<Actor seed="51666"/>
 		</Entity>
 		<Entity uid="662">
 			<Template>gaia/fauna_cattle_zebu</Template>
 			<Player>2</Player>
-			<Position x="413.40271" z="195.19184"/>
+			<Position x="396.30375" z="214.76993"/>
 			<Orientation y="0.9374"/>
 			<Actor seed="43288"/>
 		</Entity>
@@ -4572,7 +4572,7 @@
 		<Entity uid="798">
 			<Template>gaia/treasure/stone_pile_red</Template>
 			<Player>0</Player>
-			<Position x="688.40522" z="784.78077"/>
+			<Position x="677.20966" z="785.29804"/>
 			<Orientation y="-2.67824"/>
 			<Actor seed="39224"/>
 		</Entity>
@@ -4586,7 +4586,7 @@
 		<Entity uid="800">
 			<Template>gaia/treasure/stone_pile_red</Template>
 			<Player>0</Player>
-			<Position x="318.70813" z="309.71772"/>
+			<Position x="316.84995" z="305.4444"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="55144"/>
 		</Entity>
@@ -4599,92 +4599,92 @@
 		</Entity>
 		<Entity uid="808">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="322.06717" z="316.14563"/>
-			<Orientation y="1.51536"/>
+			<Position x="412.22315" z="174.13407"/>
+			<Orientation y="-1.35734"/>
 			<Actor seed="55654"/>
 		</Entity>
 		<Entity uid="809">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="317.4751" z="316.24814"/>
-			<Orientation y="-2.48604"/>
+			<Position x="416.62293" z="172.81522"/>
+			<Orientation y="-5.35872"/>
 			<Actor seed="45580"/>
 		</Entity>
 		<Entity uid="810">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="312.03867" z="312.54499"/>
-			<Orientation y="1.5013"/>
+			<Position x="422.84784" z="174.94095"/>
+			<Orientation y="-1.37139"/>
 			<Actor seed="948"/>
 		</Entity>
 		<Entity uid="811">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="313.40162" z="312.01172"/>
-			<Orientation y="2.35621"/>
+			<Position x="421.67554" z="175.81717"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="63050"/>
 		</Entity>
 		<Entity uid="812">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="312.73765" z="310.91892"/>
-			<Orientation y="1.83927"/>
+			<Position x="422.606" z="176.69431"/>
+			<Orientation y="-1.03342"/>
 			<Actor seed="30910"/>
 		</Entity>
 		<Entity uid="813">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="311.02088" z="308.16111"/>
-			<Orientation y="-1.42248"/>
+			<Position x="424.99375" z="178.89689"/>
+			<Orientation y="-4.29516"/>
 			<Actor seed="12328"/>
 		</Entity>
 		<Entity uid="814">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="313.87876" z="315.44346"/>
-			<Orientation y="1.80697"/>
+			<Position x="420.30384" z="172.63553"/>
+			<Orientation y="-1.06572"/>
 			<Actor seed="58746"/>
 		</Entity>
 		<Entity uid="815">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="321.09553" z="320.05997"/>
-			<Orientation y="1.61588"/>
+			<Position x="412.11991" z="170.10227"/>
+			<Orientation y="-1.25681"/>
 			<Actor seed="60204"/>
 		</Entity>
 		<Entity uid="816">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="328.78013" z="316.31531"/>
-			<Orientation y="-1.63166"/>
+			<Position x="405.70636" z="175.75397"/>
+			<Orientation y="-4.50434"/>
 			<Actor seed="49150"/>
 		</Entity>
 		<Entity uid="817">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="327.06656" z="313.88901"/>
-			<Orientation y="1.17118"/>
+			<Position x="408.00293" z="177.63782"/>
+			<Orientation y="-1.70151"/>
 			<Actor seed="2866"/>
 		</Entity>
 		<Entity uid="818">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="326.86762" z="316.46732"/>
-			<Orientation y="2.35621"/>
+			<Position x="407.50974" z="175.09931"/>
+			<Orientation y="-0.51648"/>
 			<Actor seed="55926"/>
 		</Entity>
 		<Entity uid="819">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="326.52027" z="318.01572"/>
-			<Orientation y="-1.61461"/>
+			<Position x="407.43323" z="173.51429"/>
+			<Orientation y="-4.4873"/>
 			<Actor seed="45158"/>
 		</Entity>
 		<Entity uid="820">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="323.54215" z="316.19681"/>
-			<Orientation y="-2.87633"/>
+			<Position x="410.78757" z="174.4766"/>
+			<Orientation y="-5.74901"/>
 			<Actor seed="57418"/>
 		</Entity>
 		<Entity uid="821">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="324.77045" z="314.16169"/>
-			<Orientation y="0.84885"/>
+			<Position x="410.14411" z="176.76493"/>
+			<Orientation y="-2.02384"/>
 			<Actor seed="17636"/>
 		</Entity>
 		<Entity uid="822">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="309.41169" z="306.34903"/>
-			<Orientation y="-2.616"/>
+			<Position x="427.02656" z="180.21631"/>
+			<Orientation y="-5.48868"/>
 			<Actor seed="40482"/>
 		</Entity>
 		<Entity uid="823">
@@ -4791,104 +4791,104 @@
 		</Entity>
 		<Entity uid="840">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="665.69178" z="791.17701"/>
-			<Orientation y="1.4342"/>
+			<Position x="579.1955" z="755.39985"/>
+			<Orientation y="1.51992"/>
 			<Actor seed="20906"/>
 		</Entity>
 		<Entity uid="841">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="676.96204" z="796.96186"/>
-			<Orientation y="-2.34336"/>
+			<Position x="590.91968" z="760.19843"/>
+			<Orientation y="-2.25763"/>
 			<Actor seed="48898"/>
 		</Entity>
 		<Entity uid="842">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="673.68824" z="795.35993"/>
-			<Orientation y="1.4342"/>
+			<Position x="587.52076" z="758.8827"/>
+			<Orientation y="1.51992"/>
 			<Actor seed="9146"/>
 		</Entity>
 		<Entity uid="843">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="675.88862" z="795.3454"/>
-			<Orientation y="1.4342"/>
+			<Position x="589.7118" z="758.67981"/>
+			<Orientation y="1.51992"/>
 			<Actor seed="7410"/>
 		</Entity>
 		<Entity uid="844">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="673.81495" z="793.0135"/>
-			<Orientation y="-0.18531"/>
+			<Position x="587.44605" z="756.53406"/>
+			<Orientation y="-0.09958"/>
 			<Actor seed="19526"/>
 		</Entity>
 		<Entity uid="845">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="678.09583" z="796.30585"/>
-			<Orientation y="-0.46479"/>
+			<Position x="591.99311" z="759.44776"/>
+			<Orientation y="-0.37906"/>
 			<Actor seed="49870"/>
 		</Entity>
 		<Entity uid="846">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="667.5658" z="792.37385"/>
-			<Orientation y="0.09964"/>
+			<Position x="581.16511" z="756.43183"/>
+			<Orientation y="0.18537"/>
 			<Actor seed="31780"/>
 		</Entity>
 		<Entity uid="847">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="670.98371" z="793.33997"/>
-			<Orientation y="-3.46175"/>
+			<Position x="584.6532" z="757.10175"/>
+			<Orientation y="-3.37603"/>
 			<Actor seed="9430"/>
 		</Entity>
 		<Entity uid="848">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="677.3686" z="794.5954"/>
-			<Orientation y="0.73032"/>
+			<Position x="591.12214" z="757.80585"/>
+			<Orientation y="0.81605"/>
 			<Actor seed="63476"/>
 		</Entity>
 		<Entity uid="849">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="667.4864" z="795.47217"/>
-			<Orientation y="-5.13746"/>
+			<Position x="581.35126" z="759.52558"/>
+			<Orientation y="-5.05173"/>
 			<Actor seed="58124"/>
 		</Entity>
 		<Entity uid="850">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="665.78437" z="787.28034"/>
-			<Orientation y="-2.49285"/>
+			<Position x="578.95411" z="751.50953"/>
+			<Orientation y="-2.40712"/>
 			<Actor seed="8284"/>
 		</Entity>
 		<Entity uid="851">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="660.14008" z="784.98993"/>
-			<Orientation y="1.26114"/>
+			<Position x="573.13447" z="749.71082"/>
+			<Orientation y="1.34687"/>
 			<Actor seed="4606"/>
 		</Entity>
 		<Entity uid="852">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="662.91706" z="780.93897"/>
-			<Orientation y="1.4342"/>
+			<Position x="575.55439" z="745.43696"/>
+			<Orientation y="1.51992"/>
 			<Actor seed="52934"/>
 		</Entity>
 		<Entity uid="853">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="663.3758" z="778.56305"/>
-			<Orientation y="-5.75724"/>
+			<Position x="575.80799" z="743.03046"/>
+			<Orientation y="-5.67151"/>
 			<Actor seed="47166"/>
 		</Entity>
 		<Entity uid="854">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="662.75977" z="776.27106"/>
-			<Orientation y="0.06725"/>
+			<Position x="574.998" z="740.79963"/>
+			<Orientation y="0.15297"/>
 			<Actor seed="40388"/>
 		</Entity>
 		<Entity uid="855">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="663.352" z="781.04291"/>
-			<Orientation y="-3.43136"/>
+			<Position x="575.99659" z="745.5033"/>
+			<Orientation y="-3.34563"/>
 			<Actor seed="33610"/>
 		</Entity>
 		<Entity uid="856">
 			<Template>actor|props/special/eyecandy/blocks_redstone_pile.xml</Template>
-			<Position x="660.60828" z="775.85853"/>
-			<Orientation y="-3.17788"/>
+			<Position x="572.8191" z="740.57282"/>
+			<Orientation y="-3.09215"/>
 			<Actor seed="7376"/>
 		</Entity>
 		<Entity uid="857">
@@ -6621,8 +6621,8 @@
 		</Entity>
 		<Entity uid="1204">
 			<Template>actor|props/flora/bush_dry_a.xml</Template>
-			<Position x="677.62446" z="792.39917"/>
-			<Orientation y="-1.71572"/>
+			<Position x="591.18897" z="755.59583"/>
+			<Orientation y="-1.63"/>
 			<Actor seed="35562"/>
 		</Entity>
 		<Entity uid="1205">
@@ -8044,42 +8044,42 @@
 		<Entity uid="1419">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="566.12354" z="732.9455"/>
+			<Position x="566.56952" z="724.98346"/>
 			<Orientation y="2.93561"/>
 			<Actor seed="30094"/>
 		</Entity>
 		<Entity uid="1420">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="566.56678" z="720.98041"/>
+			<Position x="574.42841" z="723.72071"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51398"/>
 		</Entity>
 		<Entity uid="1421">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="569.17225" z="718.32178"/>
+			<Position x="583.16071" z="723.80768"/>
 			<Orientation y="1.62815"/>
 			<Actor seed="19326"/>
 		</Entity>
 		<Entity uid="1422">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="576.02088" z="722.30475"/>
+			<Position x="455.6565" z="769.98945"/>
 			<Orientation y="0.4734"/>
 			<Actor seed="4632"/>
 		</Entity>
 		<Entity uid="1423">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="577.88245" z="729.86146"/>
+			<Position x="457.51807" z="777.54615"/>
 			<Orientation y="1.19631"/>
 			<Actor seed="1638"/>
 		</Entity>
 		<Entity uid="1424">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="587.59974" z="738.35163"/>
+			<Position x="467.23514" z="786.03632"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="13326"/>
 		</Entity>
