@@ -3,7 +3,7 @@
 <Scenario version="7">
 	<Environment>
 		<SkySet>sunny</SkySet>
-		<SunColor r="0.976471" g="0.901961" b="0.721569"/>
+		<SunColor r="0.956863" g="0.92549" b="0.807843"/>
 		<SunElevation angle="0.625864"/>
 		<SunRotation angle="-0.696349"/>
 		<AmbientColor r="0.286275" g="0.294118" b="0.321569"/>
@@ -16,8 +16,8 @@
 			<WaterBody>
 				<Type>ocean</Type>
 				<Color r="0.219608" g="0.294118" b="0.403922"/>
-				<Tint r="0.486275" g="1" b="0.831373"/>
-				<Height>26.3344</Height>
+				<Tint r="0" g="1" b="0.776471"/>
+				<Height>26.713</Height>
 				<Waviness>2</Waviness>
 				<Murkiness>0.760742</Murkiness>
 				<WindAngle>0.233165</WindAngle>
@@ -26,13 +26,13 @@
 		<Postproc>
 			<Brightness>0</Brightness>
 			<Contrast>1.00293</Contrast>
-			<Saturation>0.951172</Saturation>
+			<Saturation>0.988281</Saturation>
 			<Bloom>0.141602</Bloom>
 			<PostEffect>hdr</PostEffect>
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="247.267" y="74.192" z="596.102"/>
+		<Position x="735.157" y="109.485" z="818.483"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -48,20 +48,11 @@
   "LockTeams": false,
   "Name": "Sporades Islands (2)",
   "PlayerData": [
-    "",
     {
-      "Color": {
-        "b": 200,
-        "g": 46,
-        "r": 46
-      }
+      "Name": "Player 1"
     },
     {
-      "Color": {
-        "b": 20,
-        "g": 20,
-        "r": 150
-      }
+      "Name": "Player 2"
     }
   ],
   "Preview": "sporades_islands_2p.png",
@@ -249,21 +240,21 @@
 		<Entity uid="45">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="430.94324" z="437.2417"/>
+			<Position x="432.8639" z="483.12732"/>
 			<Orientation y="-1.10944"/>
 			<Actor seed="41408"/>
 		</Entity>
 		<Entity uid="46">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="582.52036" z="467.4604"/>
+			<Position x="592.24378" z="469.09339"/>
 			<Orientation y="0.81629"/>
 			<Actor seed="14678"/>
 		</Entity>
 		<Entity uid="47">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="668.17243" z="447.23353"/>
+			<Position x="660.44977" z="458.81202"/>
 			<Orientation y="-2.54165"/>
 			<Actor seed="14154"/>
 		</Entity>
@@ -340,14 +331,14 @@
 		<Entity uid="58">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="831.04511" z="1014.84333"/>
+			<Position x="840.65278" z="1036.36072"/>
 			<Orientation y="1.60195"/>
 			<Actor seed="36024"/>
 		</Entity>
 		<Entity uid="59">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="843.12378" z="881.21387"/>
+			<Position x="894.36243" z="987.45557"/>
 			<Orientation y="2.99515"/>
 			<Actor seed="568"/>
 		</Entity>
@@ -368,7 +359,7 @@
 		<Entity uid="62">
 			<Template>gaia/fish/tuna</Template>
 			<Player>0</Player>
-			<Position x="410.04184" z="765.71784"/>
+			<Position x="389.8227" z="761.7085"/>
 			<Orientation y="-2.48205"/>
 			<Actor seed="42908"/>
 		</Entity>
@@ -445,7 +436,7 @@
 		<Entity uid="73">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="581.25306" z="869.09107"/>
+			<Position x="584.38752" z="869.68531"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="4156"/>
 		</Entity>
@@ -487,7 +478,7 @@
 		<Entity uid="79">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="562.65043" z="906.8689"/>
+			<Position x="566.87977" z="897.49146"/>
 			<Orientation y="2.6465"/>
 			<Actor seed="38376"/>
 		</Entity>
@@ -501,7 +492,7 @@
 		<Entity uid="81">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="580.35758" z="858.2574"/>
+			<Position x="576.71283" z="860.98487"/>
 			<Orientation y="-0.77375"/>
 			<Actor seed="49362"/>
 		</Entity>
@@ -522,35 +513,35 @@
 		<Entity uid="84">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="726.44196" z="916.65284"/>
+			<Position x="723.34113" z="920.02961"/>
 			<Orientation y="0.85418"/>
 			<Actor seed="45104"/>
 		</Entity>
 		<Entity uid="85">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="735.66572" z="925.4021"/>
+			<Position x="737.32581" z="921.56141"/>
 			<Orientation y="-0.30997"/>
 			<Actor seed="33344"/>
 		</Entity>
 		<Entity uid="86">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="724.94306" z="935.7881"/>
+			<Position x="721.84223" z="939.16486"/>
 			<Orientation y="-0.35212"/>
 			<Actor seed="17272"/>
 		</Entity>
 		<Entity uid="87">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="739.06165" z="921.59406"/>
+			<Position x="734.53498" z="910.44056"/>
 			<Orientation y="-2.1006"/>
 			<Actor seed="39806"/>
 		</Entity>
 		<Entity uid="88">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="734.72309" z="913.3935"/>
+			<Position x="731.62226" z="916.77027"/>
 			<Orientation y="0.30901"/>
 			<Actor seed="31434"/>
 		</Entity>
@@ -886,14 +877,14 @@
 		<Entity uid="136">
 			<Template>gaia/tree/cypress</Template>
 			<Player>0</Player>
-			<Position x="679.39509" z="903.15076"/>
+			<Position x="716.92396" z="899.8647"/>
 			<Orientation y="1.21969"/>
 			<Actor seed="19292"/>
 		</Entity>
 		<Entity uid="137">
 			<Template>gaia/tree/cypress</Template>
 			<Player>0</Player>
-			<Position x="697.67896" z="910.19526"/>
+			<Position x="596.25599" z="774.12739"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="57764"/>
 		</Entity>
@@ -942,7 +933,7 @@
 		<Entity uid="144">
 			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
-			<Position x="723.14985" z="927.21296"/>
+			<Position x="720.04902" z="930.58973"/>
 			<Orientation y="-1.35825"/>
 			<Actor seed="37182"/>
 		</Entity>
@@ -1054,15 +1045,15 @@
 		<Entity uid="161">
 			<Template>gaia/rock/mediterranean_large</Template>
 			<Player>0</Player>
-			<Position x="712.85645" z="915.03962"/>
+			<Position x="610.36347" z="776.62842"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="41386"/>
 		</Entity>
 		<Entity uid="162">
 			<Template>gaia/treasure/shipwreck</Template>
 			<Player>0</Player>
-			<Position x="595.97876" z="736.61811"/>
-			<Orientation y="2.1767"/>
+			<Position x="595.886" z="736.61567"/>
+			<Orientation y="-2.41411"/>
 			<Actor seed="28670"/>
 		</Entity>
 		<Entity uid="163">
@@ -1215,7 +1206,7 @@
 		<Entity uid="206">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="208.102" z="563.128"/>
+			<Position x="178.02137" z="557.95032"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26154"/>
 		</Entity>
@@ -1249,7 +1240,7 @@
 		<Entity uid="211">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="647.38581" z="551.97925"/>
+			<Position x="652.22095" z="524.14313"/>
 			<Orientation y="1.4143"/>
 			<Actor seed="30290"/>
 		</Entity>
@@ -1291,14 +1282,14 @@
 		<Entity uid="217">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="902.14832" z="591.21756"/>
+			<Position x="903.55341" z="573.15851"/>
 			<Orientation y="0.02192"/>
 			<Actor seed="62502"/>
 		</Entity>
 		<Entity uid="218">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="847.7906" z="539.61042"/>
+			<Position x="836.24952" z="502.29087"/>
 			<Orientation y="-2.39637"/>
 			<Actor seed="6138"/>
 		</Entity>
@@ -1312,14 +1303,14 @@
 		<Entity uid="220">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="934.11536" z="342.03292"/>
-			<Orientation y="-2.18644"/>
+			<Position x="966.10163" z="316.16822"/>
+			<Orientation y="-6.70058"/>
 			<Actor seed="10936"/>
 		</Entity>
 		<Entity uid="221">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="867.21985" z="320.10701"/>
+			<Position x="904.055" z="285.16413"/>
 			<Orientation y="-1.95971"/>
 			<Actor seed="13518"/>
 		</Entity>
@@ -1347,14 +1338,14 @@
 		<Entity uid="225">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="939.03687" z="499.00412"/>
+			<Position x="940.68989" z="514.8805"/>
 			<Orientation y="-2.55488"/>
 			<Actor seed="14722"/>
 		</Entity>
 		<Entity uid="226">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="987.32264" z="482.0489"/>
+			<Position x="996.59876" z="489.89432"/>
 			<Orientation y="1.2791"/>
 			<Actor seed="64596"/>
 		</Entity>
@@ -1368,7 +1359,7 @@
 		<Entity uid="228">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="827.20563" z="424.00168"/>
+			<Position x="797.6225" z="426.71314"/>
 			<Orientation y="-0.74349"/>
 			<Actor seed="37036"/>
 		</Entity>
@@ -1387,7 +1378,7 @@
 		<Entity uid="231">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="449.65333" z="721.5495"/>
+			<Position x="445.34198" z="711.95606"/>
 			<Orientation y="-1.52526"/>
 		</Entity>
 		<Entity uid="232">
@@ -1405,7 +1396,7 @@
 		<Entity uid="234">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="509.11039" z="636.89982"/>
+			<Position x="491.6894" z="663.81055"/>
 			<Orientation y="-2.89042"/>
 		</Entity>
 		<Entity uid="235">
@@ -1418,7 +1409,7 @@
 		<Entity uid="236">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="165.71949" z="598.05298"/>
+			<Position x="179.66037" z="619.10145"/>
 			<Orientation y="-2.63884"/>
 			<Actor seed="47828"/>
 		</Entity>
@@ -1446,28 +1437,28 @@
 		<Entity uid="240">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="1006.95453" z="785.13477"/>
+			<Position x="1061.33887" z="846.48725"/>
 			<Orientation y="-0.96361"/>
 			<Actor seed="5946"/>
 		</Entity>
 		<Entity uid="241">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="945.01404" z="785.48633"/>
+			<Position x="974.32575" z="736.65912"/>
 			<Orientation y="0.63891"/>
 			<Actor seed="60284"/>
 		</Entity>
 		<Entity uid="242">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="867.56116" z="912.76978"/>
+			<Position x="847.4394" z="812.65821"/>
 			<Orientation y="-2.13324"/>
 			<Actor seed="17338"/>
 		</Entity>
 		<Entity uid="243">
 			<Template>gaia/fish/tilapia</Template>
 			<Player>0</Player>
-			<Position x="950.50647" z="952.42951"/>
+			<Position x="975.30036" z="1011.80701"/>
 			<Orientation y="0.40932"/>
 			<Actor seed="41438"/>
 		</Entity>
@@ -3207,7 +3198,7 @@
 		</Entity>
 		<Entity uid="542">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="744.9123" z="876.98847"/>
+			<Position x="642.41932" z="738.57728"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18876"/>
 		</Entity>
@@ -3381,7 +3372,7 @@
 		</Entity>
 		<Entity uid="571">
 			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
-			<Position x="663.43122" z="222.9401"/>
+			<Position x="652.58686" z="213.47242"/>
 			<Orientation y="-2.67434"/>
 			<Actor seed="27556"/>
 		</Entity>
@@ -4143,181 +4134,181 @@
 		</Entity>
 		<Entity uid="698">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="722.05152" z="913.54804"/>
+			<Position x="619.55854" z="775.13685"/>
 			<Orientation y="-0.04458"/>
 			<Actor seed="29646"/>
 		</Entity>
 		<Entity uid="699">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="720.06031" z="925.92804"/>
+			<Position x="617.56733" z="787.51685"/>
 			<Orientation y="-1.69027"/>
 			<Actor seed="65306"/>
 		</Entity>
 		<Entity uid="700">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="711.58106" z="926.45807"/>
+			<Position x="609.08808" z="788.04688"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="25898"/>
 		</Entity>
 		<Entity uid="701">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="710.43744" z="921.27063"/>
+			<Position x="607.94446" z="782.85944"/>
 			<Orientation y="-2.92377"/>
 			<Actor seed="8058"/>
 		</Entity>
 		<Entity uid="702">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.13227" z="913.29157"/>
+			<Position x="605.63929" z="774.88038"/>
 			<Orientation y="-3.11941"/>
 			<Actor seed="40430"/>
 		</Entity>
 		<Entity uid="703">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.28095" z="908.93396"/>
+			<Position x="605.78797" z="770.52277"/>
 			<Orientation y="0.99657"/>
 			<Actor seed="16844"/>
 		</Entity>
 		<Entity uid="704">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="712.90436" z="912.94556"/>
+			<Position x="610.41138" z="774.53437"/>
 			<Orientation y="0.42133"/>
 			<Actor seed="616"/>
 		</Entity>
 		<Entity uid="705">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="714.40845" z="916.37653"/>
+			<Position x="611.91547" z="777.96534"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="7764"/>
 		</Entity>
 		<Entity uid="706">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="713.72034" z="907.57087"/>
+			<Position x="611.22736" z="769.15967"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2606"/>
 		</Entity>
 		<Entity uid="707">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="714.52192" z="907.0127"/>
+			<Position x="612.02894" z="768.60151"/>
 			<Orientation y="0.66514"/>
 			<Actor seed="64806"/>
 		</Entity>
 		<Entity uid="708">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="715.54664" z="916.79761"/>
+			<Position x="613.05365" z="778.38642"/>
 			<Orientation y="-1.57081"/>
 			<Actor seed="8332"/>
 		</Entity>
 		<Entity uid="709">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="703.58558" z="916.93897"/>
+			<Position x="601.0926" z="778.52778"/>
 			<Orientation y="-0.8458"/>
 			<Actor seed="57814"/>
 		</Entity>
 		<Entity uid="710">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="699.58033" z="917.79786"/>
+			<Position x="597.08735" z="779.38666"/>
 			<Orientation y="3.05802"/>
 			<Actor seed="14952"/>
 		</Entity>
 		<Entity uid="711">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="700.58228" z="908.48438"/>
+			<Position x="598.0893" z="770.07319"/>
 			<Orientation y="2.5862"/>
 			<Actor seed="32442"/>
 		</Entity>
 		<Entity uid="712">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="702.23829" z="905.79975"/>
+			<Position x="599.74531" z="767.38855"/>
 			<Orientation y="2.8403"/>
 			<Actor seed="56706"/>
 		</Entity>
 		<Entity uid="713">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.58222" z="901.91236"/>
+			<Position x="606.08924" z="763.50116"/>
 			<Orientation y="0.92373"/>
 			<Actor seed="31832"/>
 		</Entity>
 		<Entity uid="714">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="712.43305" z="908.22327"/>
+			<Position x="609.94007" z="769.81208"/>
 			<Orientation y="0.09656"/>
 			<Actor seed="13102"/>
 		</Entity>
 		<Entity uid="715">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="711.26618" z="918.08832"/>
+			<Position x="608.7732" z="779.67713"/>
 			<Orientation y="-0.27562"/>
 			<Actor seed="34296"/>
 		</Entity>
 		<Entity uid="716">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.89081" z="925.4043"/>
+			<Position x="606.39783" z="786.99311"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5024"/>
 		</Entity>
 		<Entity uid="717">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="720.67103" z="927.53748"/>
+			<Position x="618.17804" z="789.12629"/>
 			<Orientation y="2.6222"/>
 			<Actor seed="38138"/>
 		</Entity>
 		<Entity uid="718">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="725.63477" z="915.57618"/>
+			<Position x="623.14179" z="777.16498"/>
 			<Orientation y="-2.6369"/>
 			<Actor seed="56526"/>
 		</Entity>
 		<Entity uid="719">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="719.51362" z="906.84937"/>
+			<Position x="617.02063" z="768.43818"/>
 			<Orientation y="-2.65166"/>
 			<Actor seed="16654"/>
 		</Entity>
 		<Entity uid="720">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="718.38392" z="903.96363"/>
+			<Position x="615.89094" z="765.55243"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="756"/>
 		</Entity>
 		<Entity uid="721">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.35596" z="906.36902"/>
+			<Position x="605.86298" z="767.95783"/>
 			<Orientation y="-0.63297"/>
 			<Actor seed="35770"/>
 		</Entity>
 		<Entity uid="722">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="708.09211" z="911.25446"/>
+			<Position x="605.59913" z="772.84327"/>
 			<Orientation y="0.74807"/>
 			<Actor seed="14048"/>
 		</Entity>
 		<Entity uid="723">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="712.87165" z="918.52802"/>
+			<Position x="610.37867" z="780.11683"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="53854"/>
 		</Entity>
 		<Entity uid="724">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="713.14081" z="925.0586"/>
+			<Position x="610.64783" z="786.6474"/>
 			<Orientation y="-0.72448"/>
 			<Actor seed="24830"/>
 		</Entity>
 		<Entity uid="725">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="706.93812" z="926.45807"/>
+			<Position x="604.44513" z="788.04688"/>
 			<Orientation y="-2.64289"/>
 			<Actor seed="27184"/>
 		</Entity>
 		<Entity uid="726">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="707.25361" z="911.23633"/>
+			<Position x="604.76063" z="772.82514"/>
 			<Orientation y="1.79838"/>
 			<Actor seed="9796"/>
 		</Entity>
 		<Entity uid="727">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="717.07001" z="909.32148"/>
+			<Position x="614.57703" z="770.91028"/>
 			<Orientation y="1.81901"/>
 			<Actor seed="1626"/>
 		</Entity>
@@ -4457,14 +4448,14 @@
 		<Entity uid="747">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="746.35663" z="895.19153"/>
+			<Position x="745.41834" z="898.07648"/>
 			<Orientation y="-2.17644"/>
 			<Actor seed="25754"/>
 		</Entity>
 		<Entity uid="748">
 			<Template>gaia/tree/pine_maritime</Template>
 			<Player>0</Player>
-			<Position x="757.06751" z="895.00464"/>
+			<Position x="739.94874" z="893.74567"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54282"/>
 		</Entity>
@@ -4618,7 +4609,7 @@
 		<Entity uid="770">
 			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
-			<Position x="586.65671" z="191.43389"/>
+			<Position x="591.9452" z="190.4899"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35878"/>
 		</Entity>
@@ -4674,63 +4665,63 @@
 		<Entity uid="778">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="687.63575" z="276.91924"/>
+			<Position x="706.55408" z="239.19257"/>
 			<Orientation y="-2.14094"/>
 			<Actor seed="28914"/>
 		</Entity>
 		<Entity uid="779">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="679.86884" z="269.11313"/>
+			<Position x="698.15436" z="231.34638"/>
 			<Orientation y="-2.76447"/>
 			<Actor seed="56214"/>
 		</Entity>
 		<Entity uid="780">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="676.5276" z="257.90821"/>
+			<Position x="709.77698" z="268.44242"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26366"/>
 		</Entity>
 		<Entity uid="781">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="683.32087" z="257.5995"/>
+			<Position x="689.38538" z="225.3105"/>
 			<Orientation y="0.79308"/>
 			<Actor seed="6960"/>
 		</Entity>
 		<Entity uid="782">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="690.88935" z="267.05604"/>
+			<Position x="694.95899" z="241.56675"/>
 			<Orientation y="0.52335"/>
 			<Actor seed="21056"/>
 		</Entity>
 		<Entity uid="783">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="699.74451" z="281.90424"/>
+			<Position x="731.83417" z="259.38328"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="11642"/>
 		</Entity>
 		<Entity uid="784">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="664.34046" z="201.59507"/>
+			<Position x="691.28052" z="275.9271"/>
 			<Orientation y="0.80417"/>
 			<Actor seed="10354"/>
 		</Entity>
 		<Entity uid="785">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="681.71863" z="208.2421"/>
+			<Position x="688.84736" z="208.06547"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59396"/>
 		</Entity>
 		<Entity uid="786">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="685.39185" z="217.31344"/>
+			<Position x="692.52057" z="217.13682"/>
 			<Orientation y="1.19854"/>
 			<Actor seed="5310"/>
 		</Entity>
@@ -4765,8 +4756,8 @@
 		<Entity uid="791">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="736.34723" z="240.8313"/>
-			<Orientation y="2.35621"/>
+			<Position x="739.912" z="245.98472"/>
+			<Orientation y="-0.93064"/>
 			<Actor seed="14794"/>
 		</Entity>
 		<Entity uid="792">
@@ -4779,21 +4770,21 @@
 		<Entity uid="793">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="675.12336" z="224.35463"/>
+			<Position x="682.25208" z="224.17801"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="63338"/>
 		</Entity>
 		<Entity uid="794">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="656.9853" z="221.177"/>
+			<Position x="685.88996" z="252.75232"/>
 			<Orientation y="-1.6695"/>
 			<Actor seed="24372"/>
 		</Entity>
 		<Entity uid="795">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="664.01807" z="244.73374"/>
+			<Position x="706.98145" z="252.52216"/>
 			<Orientation y="0.60511"/>
 			<Actor seed="14652"/>
 		</Entity>
@@ -5459,62 +5450,6 @@
 			<Orientation y="-1.86474"/>
 			<Actor seed="57750"/>
 		</Entity>
-		<Entity uid="894">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="653.49476" z="206.54085"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="39288"/>
-		</Entity>
-		<Entity uid="895">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="648.67811" z="199.70975"/>
-			<Orientation y="-1.27576"/>
-			<Actor seed="33620"/>
-		</Entity>
-		<Entity uid="896">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="645.84992" z="190.15519"/>
-			<Orientation y="-2.19819"/>
-			<Actor seed="26048"/>
-		</Entity>
-		<Entity uid="897">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="643.86164" z="208.0384"/>
-			<Orientation y="-1.19457"/>
-			<Actor seed="44896"/>
-		</Entity>
-		<Entity uid="898">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="615.31751" z="775.16108"/>
-			<Orientation y="-1.53846"/>
-			<Actor seed="3376"/>
-		</Entity>
-		<Entity uid="901">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="626.42542" z="777.89722"/>
-			<Orientation y="-1.92252"/>
-			<Actor seed="33496"/>
-		</Entity>
-		<Entity uid="902">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="620.48276" z="786.99238"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="13542"/>
-		</Entity>
-		<Entity uid="903">
-			<Template>gaia/rock/mediterranean_small</Template>
-			<Player>0</Player>
-			<Position x="603.741" z="777.46064"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14314"/>
-		</Entity>
 		<Entity uid="907">
 			<Template>gaia/fruit/berry_01</Template>
 			<Player>0</Player>
@@ -5595,7 +5530,7 @@
 		<Entity uid="918">
 			<Template>gaia/tree/poplar_lombardy</Template>
 			<Player>0</Player>
-			<Position x="759.34095" z="885.87678"/>
+			<Position x="749.97114" z="889.73597"/>
 			<Orientation y="-1.04625"/>
 			<Actor seed="17342"/>
 		</Entity>
@@ -5630,7 +5565,7 @@
 		<Entity uid="923">
 			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
-			<Position x="690.18433" z="224.75724"/>
+			<Position x="699.76008" z="215.19007"/>
 			<Orientation y="0.7347"/>
 			<Actor seed="42876"/>
 		</Entity>
@@ -5658,14 +5593,14 @@
 		<Entity uid="927">
 			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
-			<Position x="743.45765" z="246.04024"/>
+			<Position x="744.07471" z="227.77045"/>
 			<Orientation y="-1.53138"/>
 			<Actor seed="618"/>
 		</Entity>
 		<Entity uid="928">
 			<Template>gaia/tree/oak</Template>
 			<Player>0</Player>
-			<Position x="718.8954" z="264.62684"/>
+			<Position x="724.34437" z="210.79896"/>
 			<Orientation y="1.17861"/>
 			<Actor seed="65038"/>
 		</Entity>
@@ -6761,31 +6696,31 @@
 		</Entity>
 		<Entity uid="1112">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="702.56556" z="912.60761"/>
+			<Position x="601.14258" z="776.53974"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46096"/>
 		</Entity>
 		<Entity uid="1113">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="705.20984" z="910.80512"/>
+			<Position x="603.78687" z="774.73725"/>
 			<Orientation y="1.73263"/>
 			<Actor seed="50110"/>
 		</Entity>
 		<Entity uid="1114">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="707.49122" z="918.60193"/>
+			<Position x="606.06824" z="782.53406"/>
 			<Orientation y="-1.09964"/>
 			<Actor seed="42142"/>
 		</Entity>
 		<Entity uid="1115">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="714.23182" z="912.47309"/>
+			<Position x="612.80884" z="776.40522"/>
 			<Orientation y="0.78089"/>
 			<Actor seed="57378"/>
 		</Entity>
 		<Entity uid="1116">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="721.1214" z="920.42542"/>
+			<Position x="720.3606" z="901.79676"/>
 			<Orientation y="3.11626"/>
 			<Actor seed="59790"/>
 		</Entity>
@@ -6797,7 +6732,7 @@
 		</Entity>
 		<Entity uid="1118">
 			<Template>actor|props/flora/grass_medit_field.xml</Template>
-			<Position x="718.03077" z="910.7641"/>
+			<Position x="616.6078" z="774.69623"/>
 			<Orientation y="2.53255"/>
 			<Actor seed="48826"/>
 		</Entity>
@@ -7751,13 +7686,13 @@
 		</Entity>
 		<Entity uid="1276">
 			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
-			<Position x="710.35315" z="902.47034"/>
+			<Position x="608.93018" z="766.40247"/>
 			<Orientation y="-1.2924"/>
 			<Actor seed="51074"/>
 		</Entity>
 		<Entity uid="1277">
 			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
-			<Position x="706.92579" z="902.10975"/>
+			<Position x="605.50281" z="766.04188"/>
 			<Orientation y="1.46431"/>
 			<Actor seed="25630"/>
 		</Entity>
@@ -8258,7 +8193,7 @@
 		<Entity uid="1404">
 			<Template>gaia/treasure/food_barrels_buried</Template>
 			<Player>0</Player>
-			<Position x="912.784" z="357.31418"/>
+			<Position x="912.39148" z="359.19819"/>
 			<Orientation y="2.44352"/>
 			<Actor seed="460"/>
 		</Entity>
@@ -8496,7 +8431,7 @@
 		<Entity uid="1464">
 			<Template>gaia/tree/poplar_lombardy_dead</Template>
 			<Player>0</Player>
-			<Position x="605.51063" z="198.22764"/>
+			<Position x="638.64496" z="183.34897"/>
 			<Orientation y="-0.8531"/>
 			<Actor seed="45244"/>
 		</Entity>
@@ -8551,19 +8486,19 @@
 		</Entity>
 		<Entity uid="1472">
 			<Template>actor|props/special/eyecandy/shipwreck_ram_side.xml</Template>
-			<Position x="367.76481" z="552.43177"/>
+			<Position x="362.35001" z="554.03834"/>
 			<Orientation y="-1.19283"/>
 			<Actor seed="43708"/>
 		</Entity>
 		<Entity uid="1473">
 			<Template>actor|props/special/eyecandy/shipwreck_ram_side.xml</Template>
-			<Position x="271.45386" z="492.00101"/>
+			<Position x="271.46094" z="493.04844"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="786"/>
 		</Entity>
 		<Entity uid="1474">
 			<Template>actor|props/special/eyecandy/shipwreck_ram_bow.xml</Template>
-			<Position x="235.10105" z="651.28925"/>
+			<Position x="238.09162" z="656.22693"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="25036"/>
 		</Entity>
@@ -8587,9 +8522,977 @@
 		</Entity>
 		<Entity uid="1479">
 			<Template>actor|props/special/eyecandy/shipwreck_ram_bow.xml</Template>
-			<Position x="597.65162" z="153.43955"/>
-			<Orientation y="-0.21949"/>
+			<Position x="597.24994" z="155.33054"/>
+			<Orientation y="0.26067"/>
 			<Actor seed="23072"/>
+		</Entity>
+		<Entity uid="1484">
+			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
+			<Position x="676.00947" z="208.42701"/>
+			<Orientation y="-1.20365"/>
+			<Actor seed="2774"/>
+		</Entity>
+		<Entity uid="1485">
+			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
+			<Position x="670.7331" z="231.29227"/>
+			<Orientation y="-0.33283"/>
+			<Actor seed="22002"/>
+		</Entity>
+		<Entity uid="1486">
+			<Template>actor|props/structures/construction/scaffold.xml</Template>
+			<Position x="675.69434" z="218.51545"/>
+			<Orientation y="-1.90143"/>
+			<Actor seed="41658"/>
+		</Entity>
+		<Entity uid="1487">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="703.17939" z="917.96113"/>
+			<Orientation y="-3.14243"/>
+			<Actor seed="27556"/>
+		</Entity>
+		<Entity uid="1488">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="720.92072" z="900.11"/>
+			<Orientation y="0.03647"/>
+			<Actor seed="57648"/>
+		</Entity>
+		<Entity uid="1489">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="714.33075" z="916.06556"/>
+			<Orientation y="-0.47106"/>
+			<Actor seed="4668"/>
+		</Entity>
+		<Entity uid="1490">
+			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
+			<Position x="708.32319" z="926.61036"/>
+			<Orientation y="-2.3978"/>
+			<Actor seed="22002"/>
+		</Entity>
+		<Entity uid="1495">
+			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
+			<Position x="720.95264" z="910.68415"/>
+			<Orientation y="-1.67173"/>
+			<Actor seed="2774"/>
+		</Entity>
+		<Entity uid="1496">
+			<Template>actor|props/structures/construction/scaffold.xml</Template>
+			<Position x="716.11976" z="919.54523"/>
+			<Orientation y="-2.36951"/>
+			<Actor seed="41658"/>
+		</Entity>
+		<Entity uid="1497">
+			<Template>gaia/tree/cypress_windswept</Template>
+			<Player>0</Player>
+			<Position x="473.00751" z="779.79682"/>
+			<Orientation y="-0.88347"/>
+			<Actor seed="31814"/>
+		</Entity>
+		<Entity uid="1498">
+			<Template>gaia/tree/cypress_windswept</Template>
+			<Player>0</Player>
+			<Position x="462.12977" z="855.28364"/>
+			<Orientation y="-1.08266"/>
+			<Actor seed="53492"/>
+		</Entity>
+		<Entity uid="1499">
+			<Template>gaia/tree/cypress_windswept</Template>
+			<Player>0</Player>
+			<Position x="469.27173" z="861.06006"/>
+			<Orientation y="2.6345"/>
+			<Actor seed="1910"/>
+		</Entity>
+		<Entity uid="1500">
+			<Template>gaia/tree/cypress_windswept</Template>
+			<Player>0</Player>
+			<Position x="476.35172" z="863.22053"/>
+			<Orientation y="-1.32078"/>
+			<Actor seed="9508"/>
+		</Entity>
+		<Entity uid="1501">
+			<Template>gaia/fruit/berry_01</Template>
+			<Player>0</Player>
+			<Position x="498.94773" z="342.15702"/>
+			<Orientation y="-0.46305"/>
+			<Actor seed="53148"/>
+		</Entity>
+		<Entity uid="1502">
+			<Template>gaia/fruit/berry_01</Template>
+			<Player>0</Player>
+			<Position x="505.03464" z="350.41535"/>
+			<Orientation y="2.90038"/>
+			<Actor seed="25356"/>
+		</Entity>
+		<Entity uid="1503">
+			<Template>gaia/fruit/berry_01</Template>
+			<Player>0</Player>
+			<Position x="497.63431" z="348.92661"/>
+			<Orientation y="-0.02927"/>
+			<Actor seed="3584"/>
+		</Entity>
+		<Entity uid="1504">
+			<Template>gaia/fruit/berry_01</Template>
+			<Player>0</Player>
+			<Position x="512.7074" z="354.038"/>
+			<Orientation y="-1.7023"/>
+			<Actor seed="43706"/>
+		</Entity>
+		<Entity uid="1505">
+			<Template>gaia/fruit/berry_01</Template>
+			<Player>0</Player>
+			<Position x="508.7324" z="358.92026"/>
+			<Orientation y="1.0488"/>
+			<Actor seed="6066"/>
+		</Entity>
+		<Entity uid="1506">
+			<Template>gaia/fish/tilapia</Template>
+			<Player>0</Player>
+			<Position x="517.30286" z="1084.66797"/>
+			<Orientation y="0.41425"/>
+			<Actor seed="23410"/>
+		</Entity>
+		<Entity uid="1507">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="1196.5271" z="577.1142"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1508">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="963.32007" z="166.56162"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1509">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="410.83313" z="89.72515"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1510">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="145.81601" z="384.58576"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1511">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="109.41468" z="769.0351"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1512">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="306.36994" z="1066.61585"/>
+			<Orientation y="1.05315"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1513">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="824.24958" z="1176.91065"/>
+			<Orientation y="-2.9022"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1514">
+			<Template>gaia/fish/tuna</Template>
+			<Player>0</Player>
+			<Position x="1205.01355" z="788.84852"/>
+			<Orientation y="-2.22365"/>
+			<Actor seed="39922"/>
+		</Entity>
+		<Entity uid="1515">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="705.31531" z="924.30872"/>
+			<Orientation y="-3.09614"/>
+			<Actor seed="46720"/>
+		</Entity>
+		<Entity uid="1516">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="710.90516" z="921.02393"/>
+			<Orientation y="-0.95565"/>
+			<Actor seed="27124"/>
+		</Entity>
+		<Entity uid="1517">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="715.89655" z="914.44037"/>
+			<Orientation y="0.50278"/>
+			<Actor seed="9082"/>
+		</Entity>
+		<Entity uid="1518">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="718.12732" z="908.0041"/>
+			<Orientation y="1.18955"/>
+			<Actor seed="12508"/>
+		</Entity>
+		<Entity uid="1519">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="664.03431" z="228.09849"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="22324"/>
+		</Entity>
+		<Entity uid="1520">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="670.50403" z="222.60288"/>
+			<Orientation y="0.02234"/>
+			<Actor seed="9152"/>
+		</Entity>
+		<Entity uid="1521">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="670.75635" z="215.42072"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23042"/>
+		</Entity>
+		<Entity uid="1522">
+			<Template>gaia/rock/aegean_cut</Template>
+			<Player>0</Player>
+			<Position x="669.21698" z="208.99134"/>
+			<Orientation y="-1.04184"/>
+			<Actor seed="24372"/>
+		</Entity>
+		<Entity uid="1553">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="643.40821" z="898.29358"/>
+			<Orientation y="-1.74917"/>
+			<Actor seed="62314"/>
+		</Entity>
+		<Entity uid="1554">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="639.2475" z="898.04981"/>
+			<Orientation y="-0.12822"/>
+			<Actor seed="5906"/>
+		</Entity>
+		<Entity uid="1555">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="638.04944" z="905.48798"/>
+			<Orientation y="1.28856"/>
+			<Actor seed="63910"/>
+		</Entity>
+		<Entity uid="1556">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="645.8932" z="907.53278"/>
+			<Orientation y="2.57021"/>
+			<Actor seed="29028"/>
+		</Entity>
+		<Entity uid="1557">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="650.8313" z="903.17945"/>
+			<Orientation y="1.6821"/>
+			<Actor seed="47036"/>
+		</Entity>
+		<Entity uid="1558">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="665.72388" z="906.5478"/>
+			<Orientation y="1.66221"/>
+			<Actor seed="15306"/>
+		</Entity>
+		<Entity uid="1559">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="684.40424" z="909.24396"/>
+			<Orientation y="2.35717"/>
+			<Actor seed="55658"/>
+		</Entity>
+		<Entity uid="1560">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="687.48633" z="893.06891"/>
+			<Orientation y="-2.33631"/>
+			<Actor seed="30052"/>
+		</Entity>
+		<Entity uid="1561">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="682.11078" z="887.99335"/>
+			<Orientation y="-1.78954"/>
+			<Actor seed="48492"/>
+		</Entity>
+		<Entity uid="1562">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="671.55103" z="890.62714"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40620"/>
+		</Entity>
+		<Entity uid="1563">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="495.20643" z="785.77692"/>
+			<Orientation y="-2.93064"/>
+			<Actor seed="41794"/>
+		</Entity>
+		<Entity uid="1564">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="492.05839" z="779.61646"/>
+			<Orientation y="2.40401"/>
+			<Actor seed="6242"/>
+		</Entity>
+		<Entity uid="1565">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="497.42743" z="777.42005"/>
+			<Orientation y="0.36832"/>
+			<Actor seed="23500"/>
+		</Entity>
+		<Entity uid="1566">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="502.74961" z="783.39856"/>
+			<Orientation y="0.56402"/>
+			<Actor seed="23548"/>
+		</Entity>
+		<Entity uid="1567">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="506.28968" z="790.09467"/>
+			<Orientation y="1.44597"/>
+			<Actor seed="24436"/>
+		</Entity>
+		<Entity uid="1568">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="510.92786" z="794.37867"/>
+			<Orientation y="2.53963"/>
+			<Actor seed="48320"/>
+		</Entity>
+		<Entity uid="1569">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="668.81312" z="783.34864"/>
+			<Orientation y="-1.95527"/>
+			<Actor seed="51598"/>
+		</Entity>
+		<Entity uid="1570">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="677.72376" z="804.98328"/>
+			<Orientation y="-2.16761"/>
+			<Actor seed="2258"/>
+		</Entity>
+		<Entity uid="1571">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="690.44184" z="822.28083"/>
+			<Orientation y="0.15755"/>
+			<Actor seed="23340"/>
+		</Entity>
+		<Entity uid="1572">
+			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
+			<Position x="621.98633" z="773.49695"/>
+			<Orientation y="-2.3572"/>
+			<Actor seed="50738"/>
+		</Entity>
+		<Entity uid="1573">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="530.39448" z="781.16181"/>
+			<Orientation y="-1.76771"/>
+			<Actor seed="63014"/>
+		</Entity>
+		<Entity uid="1574">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="501.232" z="807.26545"/>
+			<Orientation y="1.1203"/>
+			<Actor seed="3590"/>
+		</Entity>
+		<Entity uid="1575">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="496.88923" z="856.56385"/>
+			<Orientation y="-1.9639"/>
+			<Actor seed="54126"/>
+		</Entity>
+		<Entity uid="1576">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="480.3133" z="844.1609"/>
+			<Orientation y="1.19971"/>
+			<Actor seed="53264"/>
+		</Entity>
+		<Entity uid="1577">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="547.2732" z="886.2234"/>
+			<Orientation y="-2.19567"/>
+			<Actor seed="33058"/>
+		</Entity>
+		<Entity uid="1578">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="553.38593" z="870.52265"/>
+			<Orientation y="1.18056"/>
+			<Actor seed="9952"/>
+		</Entity>
+		<Entity uid="1579">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="679.66102" z="906.25532"/>
+			<Orientation y="-2.62746"/>
+			<Actor seed="9276"/>
+		</Entity>
+		<Entity uid="1580">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="679.05085" z="901.70905"/>
+			<Orientation y="1.39333"/>
+			<Actor seed="64716"/>
+		</Entity>
+		<Entity uid="1581">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="691.24555" z="898.09192"/>
+			<Orientation y="2.66254"/>
+			<Actor seed="30836"/>
+		</Entity>
+		<Entity uid="1582">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="692.32215" z="892.2948"/>
+			<Orientation y="-2.55282"/>
+			<Actor seed="15296"/>
+		</Entity>
+		<Entity uid="1583">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="691.41065" z="890.33844"/>
+			<Orientation y="2.41855"/>
+			<Actor seed="19662"/>
+		</Entity>
+		<Entity uid="1584">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="696.28834" z="887.03345"/>
+			<Orientation y="1.09003"/>
+			<Actor seed="35482"/>
+		</Entity>
+		<Entity uid="1585">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="683.54072" z="891.79084"/>
+			<Orientation y="-1.78078"/>
+			<Actor seed="60148"/>
+		</Entity>
+		<Entity uid="1586">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="679.13886" z="889.3686"/>
+			<Orientation y="3.12548"/>
+			<Actor seed="41208"/>
+		</Entity>
+		<Entity uid="1587">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="680.15461" z="886.99073"/>
+			<Orientation y="2.11568"/>
+			<Actor seed="6498"/>
+		</Entity>
+		<Entity uid="1588">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="687.25843" z="887.1236"/>
+			<Orientation y="1.73346"/>
+			<Actor seed="45048"/>
+		</Entity>
+		<Entity uid="1589">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="665.5282" z="872.33564"/>
+			<Orientation y="-1.68148"/>
+			<Actor seed="49964"/>
+		</Entity>
+		<Entity uid="1590">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="644.00013" z="878.16938"/>
+			<Orientation y="-1.71828"/>
+			<Actor seed="54292"/>
+		</Entity>
+		<Entity uid="1591">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="636.62024" z="882.18616"/>
+			<Orientation y="0.44977"/>
+			<Actor seed="26654"/>
+		</Entity>
+		<Entity uid="1592">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="641.16803" z="887.6023"/>
+			<Orientation y="1.36413"/>
+			<Actor seed="57632"/>
+		</Entity>
+		<Entity uid="1593">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="689.69935" z="864.49903"/>
+			<Orientation y="-2.42447"/>
+			<Actor seed="34860"/>
+		</Entity>
+		<Entity uid="1594">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="682.67981" z="857.31861"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="8888"/>
+		</Entity>
+		<Entity uid="1595">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="550.10254" z="854.46576"/>
+			<Orientation y="-3.0111"/>
+			<Actor seed="49026"/>
+		</Entity>
+		<Entity uid="1596">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="553.38807" z="844.90326"/>
+			<Orientation y="1.71377"/>
+			<Actor seed="22430"/>
+		</Entity>
+		<Entity uid="1597">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="559.70075" z="847.78675"/>
+			<Orientation y="1.62693"/>
+			<Actor seed="22662"/>
+		</Entity>
+		<Entity uid="1598">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="556.20624" z="801.34943"/>
+			<Orientation y="-2.04842"/>
+			<Actor seed="44594"/>
+		</Entity>
+		<Entity uid="1599">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="530.59656" z="787.19813"/>
+			<Orientation y="1.28959"/>
+			<Actor seed="12788"/>
+		</Entity>
+		<Entity uid="1600">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="528.03425" z="776.94416"/>
+			<Orientation y="1.48774"/>
+			<Actor seed="61940"/>
+		</Entity>
+		<Entity uid="1601">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="537.09095" z="776.60773"/>
+			<Orientation y="-1.75933"/>
+			<Actor seed="31660"/>
+		</Entity>
+		<Entity uid="1602">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="786.16138" z="589.6161"/>
+			<Orientation y="1.11036"/>
+			<Actor seed="27896"/>
+		</Entity>
+		<Entity uid="1603">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="789.39655" z="585.91663"/>
+			<Orientation y="-2.6376"/>
+			<Actor seed="45436"/>
+		</Entity>
+		<Entity uid="1604">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="787.4422" z="582.07184"/>
+			<Orientation y="-2.98234"/>
+			<Actor seed="2980"/>
+		</Entity>
+		<Entity uid="1605">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="790.80225" z="578.38349"/>
+			<Orientation y="0.9467"/>
+			<Actor seed="49208"/>
+		</Entity>
+		<Entity uid="1606">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="794.13337" z="582.3548"/>
+			<Orientation y="1.2603"/>
+			<Actor seed="15760"/>
+		</Entity>
+		<Entity uid="1607">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="751.73115" z="572.09375"/>
+			<Orientation y="-1.80358"/>
+			<Actor seed="12380"/>
+		</Entity>
+		<Entity uid="1608">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="751.34467" z="567.43494"/>
+			<Orientation y="0.86081"/>
+			<Actor seed="40538"/>
+		</Entity>
+		<Entity uid="1609">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="755.81354" z="570.05384"/>
+			<Orientation y="0.88442"/>
+			<Actor seed="19154"/>
+		</Entity>
+		<Entity uid="1624">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1097.93848" z="157.84192"/>
+			<Orientation y="0.94671"/>
+			<Actor seed="49208"/>
+		</Entity>
+		<Entity uid="1625">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1036.20972" z="167.71299"/>
+			<Orientation y="0.73505"/>
+			<Actor seed="29556"/>
+		</Entity>
+		<Entity uid="1630">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1092.63794" z="168.7787"/>
+			<Orientation y="1.11037"/>
+			<Actor seed="27896"/>
+		</Entity>
+		<Entity uid="1631">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1096.08741" z="165.27817"/>
+			<Orientation y="-2.63761"/>
+			<Actor seed="45436"/>
+		</Entity>
+		<Entity uid="1632">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1094.36524" z="161.32398"/>
+			<Orientation y="-2.98235"/>
+			<Actor seed="2980"/>
+		</Entity>
+		<Entity uid="1633">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1101.0276" z="162.00428"/>
+			<Orientation y="1.2603"/>
+			<Actor seed="15760"/>
+		</Entity>
+		<Entity uid="1634">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1043.53614" z="162.34739"/>
+			<Orientation y="-2.06908"/>
+			<Actor seed="36486"/>
+		</Entity>
+		<Entity uid="1635">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1065.79786" z="198.59668"/>
+			<Orientation y="1.19721"/>
+			<Actor seed="49412"/>
+		</Entity>
+		<Entity uid="1636">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="1073.17505" z="187.60154"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="9436"/>
+		</Entity>
+		<Entity uid="1637">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="1059.20191" z="144.56653"/>
+			<Orientation y="0.86081"/>
+			<Actor seed="40538"/>
+		</Entity>
+		<Entity uid="1638">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="1059.3108" z="149.24009"/>
+			<Orientation y="-1.80358"/>
+			<Actor seed="12380"/>
+		</Entity>
+		<Entity uid="1639">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="1063.50709" z="147.44651"/>
+			<Orientation y="0.88442"/>
+			<Actor seed="19154"/>
+		</Entity>
+		<Entity uid="1640">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="1020.41327" z="162.85752"/>
+			<Orientation y="-2.38825"/>
+			<Actor seed="61738"/>
+		</Entity>
+		<Entity uid="1641">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="1017.17206" z="157.43216"/>
+			<Orientation y="2.57886"/>
+			<Actor seed="17892"/>
+		</Entity>
+		<Entity uid="1642">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1028.6194" z="168.33811"/>
+			<Orientation y="-2.84392"/>
+			<Actor seed="50378"/>
+		</Entity>
+		<Entity uid="1646">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1026.1167" z="145.37641"/>
+			<Orientation y="1.9341"/>
+			<Actor seed="61794"/>
+		</Entity>
+		<Entity uid="1647">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1224.88453" z="439.8884"/>
+			<Orientation y="0.80794"/>
+			<Actor seed="10508"/>
+		</Entity>
+		<Entity uid="1648">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1241.25391" z="416.85776"/>
+			<Orientation y="-1.96561"/>
+			<Actor seed="31346"/>
+		</Entity>
+		<Entity uid="1649">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1234.42872" z="462.68628"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="18876"/>
+		</Entity>
+		<Entity uid="1655">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1086.37525" z="163.09235"/>
+			<Orientation y="-1.78"/>
+			<Actor seed="20046"/>
+		</Entity>
+		<Entity uid="1656">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1077.5735" z="161.27"/>
+			<Orientation y="-2.1841"/>
+			<Actor seed="5800"/>
+		</Entity>
+		<Entity uid="1657">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1072.88843" z="156.78797"/>
+			<Orientation y="-2.47356"/>
+			<Actor seed="64326"/>
+		</Entity>
+		<Entity uid="1658">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1066.50342" z="154.78537"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="53582"/>
+		</Entity>
+		<Entity uid="1659">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1077.33741" z="173.96683"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="36076"/>
+		</Entity>
+		<Entity uid="1660">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1036.29102" z="150.80396"/>
+			<Orientation y="0.61861"/>
+			<Actor seed="12768"/>
+		</Entity>
+		<Entity uid="1661">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1042.92261" z="153.63978"/>
+			<Orientation y="-3.06998"/>
+			<Actor seed="54518"/>
+		</Entity>
+		<Entity uid="1662">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1047.46338" z="147.66196"/>
+			<Orientation y="1.62543"/>
+			<Actor seed="6126"/>
+		</Entity>
+		<Entity uid="1663">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1058.67261" z="156.96836"/>
+			<Orientation y="0.59784"/>
+			<Actor seed="15546"/>
+		</Entity>
+		<Entity uid="1664">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1065.23584" z="164.39496"/>
+			<Orientation y="2.2251"/>
+			<Actor seed="11796"/>
+		</Entity>
+		<Entity uid="1665">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1224.62134" z="460.52112"/>
+			<Orientation y="-2.55327"/>
+			<Actor seed="16420"/>
+		</Entity>
+		<Entity uid="1666">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1213.59815" z="440.04538"/>
+			<Orientation y="1.90363"/>
+			<Actor seed="51078"/>
+		</Entity>
+		<Entity uid="1667">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1232.1233" z="444.47962"/>
+			<Orientation y="1.67771"/>
+			<Actor seed="3152"/>
+		</Entity>
+		<Entity uid="1668">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1246.7544" z="443.89057"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="65122"/>
+		</Entity>
+		<Entity uid="1669">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1257.8086" z="449.47541"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="47726"/>
+		</Entity>
+		<Entity uid="1670">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1252.96875" z="436.77717"/>
+			<Orientation y="-2.62778"/>
+			<Actor seed="7660"/>
+		</Entity>
+		<Entity uid="1671">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1247.98487" z="428.38932"/>
+			<Orientation y="-2.32651"/>
+			<Actor seed="49522"/>
+		</Entity>
+		<Entity uid="1672">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1255.36451" z="431.13804"/>
+			<Orientation y="-1.23798"/>
+			<Actor seed="11836"/>
+		</Entity>
+		<Entity uid="1673">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1238.48926" z="417.66672"/>
+			<Orientation y="-2.79552"/>
+			<Actor seed="7590"/>
+		</Entity>
+		<Entity uid="1674">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1207.22144" z="461.74656"/>
+			<Orientation y="-2.55492"/>
+			<Actor seed="64980"/>
+		</Entity>
+		<Entity uid="1675">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1203.51563" z="454.2992"/>
+			<Orientation y="-2.94936"/>
+			<Actor seed="54718"/>
+		</Entity>
+		<Entity uid="1676">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1202.62745" z="445.63337"/>
+			<Orientation y="-3.06362"/>
+			<Actor seed="6566"/>
+		</Entity>
+		<Entity uid="1677">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1205.2837" z="433.28354"/>
+			<Orientation y="0.9671"/>
+			<Actor seed="38236"/>
+		</Entity>
+		<Entity uid="1678">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1207.0044" z="447.86075"/>
+			<Orientation y="-1.13515"/>
+			<Actor seed="52440"/>
+		</Entity>
+		<Entity uid="1679">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1208.46924" z="420.82023"/>
+			<Orientation y="-1.93578"/>
+			<Actor seed="9190"/>
+		</Entity>
+		<Entity uid="1680">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1223.17579" z="454.06757"/>
+			<Orientation y="1.67721"/>
+			<Actor seed="44572"/>
+		</Entity>
+		<Entity uid="1681">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1249.5962" z="480.616"/>
+			<Orientation y="-1.06557"/>
+			<Actor seed="36590"/>
+		</Entity>
+		<Entity uid="1682">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1270.563" z="455.2063"/>
+			<Orientation y="1.4401"/>
+			<Actor seed="41598"/>
+		</Entity>
+		<Entity uid="1683">
+			<Template>actor|props/flora/plant_medit_artichoke.xml</Template>
+			<Position x="1273.24048" z="447.64148"/>
+			<Orientation y="-1.01154"/>
+			<Actor seed="48188"/>
+		</Entity>
+		<Entity uid="1688">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="1104.4148" z="191.27463"/>
+			<Orientation y="-1.66742"/>
+			<Actor seed="59944"/>
+		</Entity>
+		<Entity uid="1689">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="1116.70142" z="201.06003"/>
+			<Orientation y="-1.82604"/>
+			<Actor seed="56780"/>
+		</Entity>
+		<Entity uid="1693">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="1127.94874" z="199.96784"/>
+			<Orientation y="1.15354"/>
+			<Actor seed="36522"/>
+		</Entity>
+		<Entity uid="1694">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="1106.73609" z="197.57523"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="47446"/>
+		</Entity>
+		<Entity uid="1695">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="713.71186" z="588.00007"/>
+			<Orientation y="-2.38825"/>
+			<Actor seed="61738"/>
+		</Entity>
+		<Entity uid="1696">
+			<Template>actor|props/flora/bush_medit_sm.xml</Template>
+			<Position x="710.15387" z="582.77704"/>
+			<Orientation y="2.57885"/>
+			<Actor seed="17892"/>
+		</Entity>
+		<Entity uid="1697">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="736.7638" z="586.11585"/>
+			<Orientation y="-2.06908"/>
+			<Actor seed="36486"/>
+		</Entity>
+		<Entity uid="1698">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="729.76954" z="591.9076"/>
+			<Orientation y="0.73505"/>
+			<Actor seed="29556"/>
+		</Entity>
+		<Entity uid="1699">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="761.14185" z="620.9773"/>
+			<Orientation y="1.1972"/>
+			<Actor seed="49412"/>
+		</Entity>
+		<Entity uid="1700">
+			<Template>actor|props/flora/bush_medit_sm_dry.xml</Template>
+			<Position x="767.85206" z="609.56293"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9436"/>
+		</Entity>
+		<Entity uid="1701">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="812.10169" z="620.40943"/>
+			<Orientation y="-1.82604"/>
+			<Actor seed="56780"/>
+		</Entity>
+		<Entity uid="1702">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="823.2641" z="618.6504"/>
+			<Orientation y="1.15354"/>
+			<Actor seed="36522"/>
+		</Entity>
+		<Entity uid="1703">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="801.94666" z="617.52338"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47446"/>
+		</Entity>
+		<Entity uid="1704">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="799.25483" z="611.37195"/>
+			<Orientation y="-1.66742"/>
+			<Actor seed="59944"/>
+		</Entity>
+		<Entity uid="1705">
+			<Template>actor|props/flora/bush_medit_sm_lush.xml</Template>
+			<Position x="654.13032" z="610.06946"/>
+			<Orientation y="-1.71917"/>
+			<Actor seed="53904"/>
+		</Entity>
+		<Entity uid="1706">
+			<Template>actor|props/flora/bush_medit_underbrush.xml</Template>
+			<Position x="819.5796" z="624.8783"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35168"/>
+		</Entity>
+		<Entity uid="1707">
+			<Template>actor|props/flora/bush_medit_underbrush.xml</Template>
+			<Position x="859.61933" z="646.65876"/>
+			<Orientation y="-0.68137"/>
+			<Actor seed="34082"/>
 		</Entity>
 	</Entities>
 	<Paths/>
