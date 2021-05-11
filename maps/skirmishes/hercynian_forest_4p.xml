@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="665.789" y="218.895" z="218.878"/>
+		<Position x="248.288" y="95.5621" z="936.76"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -17932,7 +17932,7 @@
 		</Entity>
 		<Entity uid="2696">
 			<Template>actor|props/special/eyecandy/campfire.xml</Template>
-			<Position x="241.69925" z="1015.21601"/>
+			<Position x="239.00031" z="1017.6706"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5080"/>
 		</Entity>
@@ -21002,28 +21002,28 @@
 		<Entity uid="3142">
 			<Template>gaia/tree/pine</Template>
 			<Player>0</Player>
-			<Position x="389.05213" z="163.11509"/>
+			<Position x="392.14264" z="158.54627"/>
 			<Orientation y="2.40888"/>
 			<Actor seed="36278"/>
 		</Entity>
 		<Entity uid="3143">
 			<Template>gaia/tree/pine</Template>
 			<Player>0</Player>
-			<Position x="393.63645" z="160.03608"/>
+			<Position x="397.01334" z="159.40857"/>
 			<Orientation y="1.82668"/>
 			<Actor seed="34956"/>
 		</Entity>
 		<Entity uid="3144">
 			<Template>gaia/tree/pine</Template>
 			<Player>0</Player>
-			<Position x="400.86197" z="158.49415"/>
+			<Position x="401.3082" z="153.37983"/>
 			<Orientation y="2.61385"/>
 			<Actor seed="3636"/>
 		</Entity>
 		<Entity uid="3145">
 			<Template>gaia/tree/pine</Template>
 			<Player>0</Player>
-			<Position x="406.02765" z="154.58268"/>
+			<Position x="406.80506" z="144.10935"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="57824"/>
 		</Entity>
@@ -22234,7 +22234,7 @@
 		<Entity uid="3318">
 			<Template>gaia/tree/pine</Template>
 			<Player>0</Player>
-			<Position x="421.6056" z="186.28275"/>
+			<Position x="418.32142" z="139.43268"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2724"/>
 		</Entity>
@@ -50546,76 +50546,6 @@
 			<Orientation y="-1.23594"/>
 			<Actor seed="57764"/>
 		</Entity>
-		<Entity uid="7487">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="258.12339" z="998.28174"/>
-			<Orientation y="-1.698"/>
-			<Actor seed="17670"/>
-		</Entity>
-		<Entity uid="7488">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="240.50818" z="995.34485"/>
-			<Orientation y="-2.25887"/>
-			<Actor seed="458"/>
-		</Entity>
-		<Entity uid="7489">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="240.21454" z="988.86713"/>
-			<Orientation y="1.63405"/>
-			<Actor seed="16386"/>
-		</Entity>
-		<Entity uid="7490">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="243.81293" z="989.35627"/>
-			<Orientation y="0.41568"/>
-			<Actor seed="28936"/>
-		</Entity>
-		<Entity uid="7491">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="248.51652" z="993.45014"/>
-			<Orientation y="-2.12447"/>
-			<Actor seed="55472"/>
-		</Entity>
-		<Entity uid="7492">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1060.09046" z="1044.24744"/>
-			<Orientation y="5.94039"/>
-			<Actor seed="16386"/>
-		</Entity>
-		<Entity uid="7493">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1052.60096" z="1050.06421"/>
-			<Orientation y="2.18187"/>
-			<Actor seed="55472"/>
-		</Entity>
-		<Entity uid="7494">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1044.3678" z="1056.98145"/>
-			<Orientation y="2.60834"/>
-			<Actor seed="17670"/>
-		</Entity>
-		<Entity uid="7495">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1054.02332" z="1041.95862"/>
-			<Orientation y="2.04748"/>
-			<Actor seed="458"/>
-		</Entity>
-		<Entity uid="7496">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1058.21973" z="1047.36"/>
-			<Orientation y="4.72202"/>
-			<Actor seed="28936"/>
-		</Entity>
 		<Entity uid="7497">
 			<Template>gaia/treasure/food_bin</Template>
 			<Player>0</Player>
@@ -50636,41 +50566,6 @@
 			<Position x="1024.23121" z="1051.99061"/>
 			<Orientation y="3.0704"/>
 			<Actor seed="57764"/>
-		</Entity>
-		<Entity uid="7500">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1031.5608" z="262.65403"/>
-			<Orientation y="-2.12989"/>
-			<Actor seed="16386"/>
-		</Entity>
-		<Entity uid="7501">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1027.48682" z="254.09076"/>
-			<Orientation y="-5.8884"/>
-			<Actor seed="55472"/>
-		</Entity>
-		<Entity uid="7502">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1022.49762" z="244.56485"/>
-			<Orientation y="-5.46193"/>
-			<Actor seed="17670"/>
-		</Entity>
-		<Entity uid="7503">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1035.09827" z="257.21958"/>
-			<Orientation y="-6.0228"/>
-			<Actor seed="458"/>
-		</Entity>
-		<Entity uid="7504">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="1028.92212" z="260.159"/>
-			<Orientation y="-3.34826"/>
-			<Actor seed="28936"/>
 		</Entity>
 		<Entity uid="7505">
 			<Template>gaia/treasure/food_bin</Template>
@@ -50693,59 +50588,24 @@
 			<Orientation y="-4.99988"/>
 			<Actor seed="57764"/>
 		</Entity>
-		<Entity uid="7508">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="273.6432" z="193.92252"/>
-			<Orientation y="-1.8372"/>
-			<Actor seed="16386"/>
-		</Entity>
-		<Entity uid="7509">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="254.31864" z="210.58936"/>
-			<Orientation y="-5.59571"/>
-			<Actor seed="55472"/>
-		</Entity>
-		<Entity uid="7510">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="246.79297" z="202.90818"/>
-			<Orientation y="-5.16924"/>
-			<Actor seed="17670"/>
-		</Entity>
-		<Entity uid="7511">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="262.50861" z="211.38895"/>
-			<Orientation y="-5.73011"/>
-			<Actor seed="458"/>
-		</Entity>
-		<Entity uid="7512">
-			<Template>gaia/treasure/metal_weapons_small</Template>
-			<Player>0</Player>
-			<Position x="257.44343" z="215.98536"/>
-			<Orientation y="-3.05556"/>
-			<Actor seed="28936"/>
-		</Entity>
 		<Entity uid="7513">
 			<Template>gaia/treasure/food_bin</Template>
 			<Player>0</Player>
-			<Position x="250.47425" z="191.54032"/>
+			<Position x="243.21723" z="209.54438"/>
 			<Orientation y="-1.11503"/>
 			<Actor seed="8616"/>
 		</Entity>
 		<Entity uid="7514">
 			<Template>gaia/treasure/food_bin</Template>
 			<Player>0</Player>
-			<Position x="250.70649" z="187.75428"/>
+			<Position x="243.44947" z="205.75834"/>
 			<Orientation y="-5.8422"/>
 			<Actor seed="59992"/>
 		</Entity>
 		<Entity uid="7515">
 			<Template>gaia/treasure/food_barrel</Template>
 			<Player>0</Player>
-			<Position x="252.42676" z="185.26343"/>
+			<Position x="245.16974" z="203.2675"/>
 			<Orientation y="-4.70719"/>
 			<Actor seed="57764"/>
 		</Entity>
@@ -51095,113 +50955,113 @@
 		<Entity uid="7565">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="254.37397" z="198.0034"/>
+			<Position x="269.09458" z="199.5741"/>
 			<Orientation y="1.72313"/>
 			<Actor seed="60170"/>
 		</Entity>
 		<Entity uid="7566">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="254.14213" z="193.67032"/>
+			<Position x="259.27308" z="204.96641"/>
 			<Orientation y="1.52691"/>
 			<Actor seed="36318"/>
 		</Entity>
 		<Entity uid="7567">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="257.33515" z="192.51636"/>
+			<Position x="262.4661" z="203.81244"/>
 			<Orientation y="1.16852"/>
 			<Actor seed="32292"/>
 		</Entity>
 		<Entity uid="7568">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="260.511" z="191.56891"/>
+			<Position x="265.64188" z="202.865"/>
 			<Orientation y="0.31695"/>
 			<Actor seed="258"/>
 		</Entity>
 		<Entity uid="7569">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="258.81354" z="196.54371"/>
-			<Orientation y="-3.00232"/>
+			<Position x="271.73536" z="196.56559"/>
+			<Orientation y="-2.70163"/>
 			<Actor seed="29518"/>
 		</Entity>
 		<Entity uid="7570">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="261.78043" z="196.2823"/>
-			<Orientation y="2.94948"/>
+			<Position x="274.49173" z="195.4372"/>
+			<Orientation y="3.25017"/>
 			<Actor seed="46008"/>
 		</Entity>
 		<Entity uid="7571">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="263.99958" z="195.56125"/>
-			<Orientation y="-2.99004"/>
+			<Position x="276.39777" z="194.09125"/>
+			<Orientation y="-2.68935"/>
 			<Actor seed="13350"/>
 		</Entity>
 		<Entity uid="7572">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="251.16254" z="196.31318"/>
+			<Position x="265.88315" z="197.88389"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="60528"/>
 		</Entity>
 		<Entity uid="7573">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="1034.06873" z="237.23227"/>
-			<Orientation y="0.31624"/>
+			<Position x="1039.12342" z="241.80857"/>
+			<Orientation y="-2.88968"/>
 			<Actor seed="36318"/>
 		</Entity>
 		<Entity uid="7574">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="1034.31592" z="245.30103"/>
+			<Position x="1036.81861" z="245.69541"/>
 			<Orientation y="1.73881"/>
 			<Actor seed="46008"/>
 		</Entity>
 		<Entity uid="7575">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="1030.5453" z="235.3751"/>
+			<Position x="1041.28711" z="248.30835"/>
 			<Orientation y="1.14554"/>
 			<Actor seed="60528"/>
 		</Entity>
 		<Entity uid="7576">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="1035.77271" z="247.12372"/>
+			<Position x="1038.2754" z="247.5181"/>
 			<Orientation y="-4.20072"/>
 			<Actor seed="13350"/>
 		</Entity>
 		<Entity uid="7577">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="1036.27381" z="239.81379"/>
-			<Orientation y="-0.04217"/>
+			<Position x="1037.08887" z="239.09064"/>
+			<Orientation y="-3.24808"/>
 			<Actor seed="32292"/>
 		</Entity>
 		<Entity uid="7578">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="1030.62867" z="239.80997"/>
+			<Position x="1032.07569" z="237.15033"/>
 			<Orientation y="-4.46596"/>
 			<Actor seed="60170"/>
 		</Entity>
 		<Entity uid="7579">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="1033.02576" z="242.61655"/>
+			<Position x="1033.41492" z="241.04242"/>
 			<Orientation y="-4.213"/>
 			<Actor seed="29518"/>
 		</Entity>
 		<Entity uid="7580">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="1038.27955" z="242.452"/>
-			<Orientation y="-0.89373"/>
+			<Position x="1035.25684" z="236.32898"/>
+			<Orientation y="-4.09964"/>
 			<Actor seed="258"/>
 		</Entity>
 		<Entity uid="7581">
@@ -51263,28 +51123,28 @@
 		<Entity uid="7589">
 			<Template>units/german_infantry_javelineer_a</Template>
 			<Player>0</Player>
-			<Position x="254.8855" z="1009.34644"/>
+			<Position x="253.36417" z="1012.88904"/>
 			<Orientation y="4.09275"/>
 			<Actor seed="36318"/>
 		</Entity>
 		<Entity uid="7590">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="249.90085" z="1002.99671"/>
+			<Position x="246.53644" z="1012.71937"/>
 			<Orientation y="5.51531"/>
 			<Actor seed="46008"/>
 		</Entity>
 		<Entity uid="7591">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="258.8237" z="1008.75196"/>
+			<Position x="245.0434" z="1006.91529"/>
 			<Orientation y="4.3618"/>
 			<Actor seed="60528"/>
 		</Entity>
 		<Entity uid="7592">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="245.03742" z="1000.89716"/>
+			<Position x="241.67301" z="1010.61982"/>
 			<Orientation y="3.53393"/>
 			<Actor seed="13350"/>
 		</Entity>
@@ -51298,14 +51158,14 @@
 		<Entity uid="7594">
 			<Template>units/german_champion_axeman</Template>
 			<Player>0</Player>
-			<Position x="257.05033" z="1005.5857"/>
+			<Position x="243.27002" z="1003.74903"/>
 			<Orientation y="4.28896"/>
 			<Actor seed="60170"/>
 		</Entity>
 		<Entity uid="7595">
 			<Template>units/german_infantry_spearman_a</Template>
 			<Player>0</Player>
-			<Position x="252.53174" z="1004.39283"/>
+			<Position x="249.16733" z="1014.11548"/>
 			<Orientation y="-0.4365"/>
 			<Actor seed="29518"/>
 		</Entity>
@@ -51644,6 +51504,34 @@
 			<Position x="691.92096" z="639.63514"/>
 			<Orientation y="-1.71094"/>
 			<Actor seed="56070"/>
+		</Entity>
+		<Entity uid="7644">
+			<Template>gaia/ore/temperate_02</Template>
+			<Player>0</Player>
+			<Position x="1048.18982" z="1053.67066"/>
+			<Orientation y="0.84505"/>
+			<Actor seed="49230"/>
+		</Entity>
+		<Entity uid="7646">
+			<Template>gaia/ore/temperate_01</Template>
+			<Player>0</Player>
+			<Position x="1023.64881" z="247.75507"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="1680"/>
+		</Entity>
+		<Entity uid="7647">
+			<Template>gaia/ore/temperate_02</Template>
+			<Player>0</Player>
+			<Position x="256.412" z="189.44904"/>
+			<Orientation y="-2.51085"/>
+			<Actor seed="47010"/>
+		</Entity>
+		<Entity uid="7648">
+			<Template>gaia/ore/temperate_02</Template>
+			<Player>0</Player>
+			<Position x="257.10322" z="1000.12421"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="19878"/>
 		</Entity>
 	</Entities>
 	<Paths/>
