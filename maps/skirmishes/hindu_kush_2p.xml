@@ -10296,35 +10296,35 @@
 			<Actor seed="52802"/>
 		</Entity>
 		<Entity uid="1764">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="132.78849" z="758.32288"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="37454"/>
 		</Entity>
 		<Entity uid="1765">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="805.86512" z="145.59968"/>
 			<Orientation y="-5.5384"/>
 			<Actor seed="39822"/>
 		</Entity>
 		<Entity uid="1766">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="510.28327" z="453.46961"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="53108"/>
 		</Entity>
 		<Entity uid="1767">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="286.22657" z="637.47938"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="43270"/>
 		</Entity>
 		<Entity uid="1768">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="698.20197" z="308.46665"/>
 			<Orientation y="2.35621"/>

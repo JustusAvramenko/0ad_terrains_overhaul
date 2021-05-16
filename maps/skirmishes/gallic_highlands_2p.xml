@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="710.917" y="165.696" z="557.458"/>
+		<Position x="403.517" y="96.2557" z="448.798"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -36352,20 +36352,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="62374"/>
 		</Entity>
-		<Entity uid="6007">
-			<Template>structures/gaul/market</Template>
-			<Player>0</Player>
-			<Position x="838.59693" z="227.04557"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="47714"/>
-		</Entity>
-		<Entity uid="6008">
-			<Template>structures/gaul/market</Template>
-			<Player>0</Player>
-			<Position x="194.89646" z="805.7458"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="60292"/>
-		</Entity>
 		<Entity uid="6010">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>1</Player>
@@ -36645,6 +36631,62 @@
 			<Position x="228.94092" z="525.69166"/>
 			<Orientation y="4.05724"/>
 			<Actor seed="23294"/>
+		</Entity>
+		<Entity uid="6051">
+			<Template>structures/trading_post_celtic</Template>
+			<Player>0</Player>
+			<Position x="191.80954" z="809.00116"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61964"/>
+		</Entity>
+		<Entity uid="6052">
+			<Template>structures/trading_post_celtic</Template>
+			<Player>0</Player>
+			<Position x="839.12055" z="226.74466"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="52616"/>
+		</Entity>
+		<Entity uid="6053">
+			<Template>units/cart/infantry_swordsman_gaul_e</Template>
+			<Player>0</Player>
+			<Position x="175.05451" z="825.30073"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42452"/>
+		</Entity>
+		<Entity uid="6054">
+			<Template>units/gaul/infantry_javelineer_a</Template>
+			<Player>0</Player>
+			<Position x="177.78074" z="828.2829"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21654"/>
+		</Entity>
+		<Entity uid="6055">
+			<Template>units/gaul/infantry_javelineer_a</Template>
+			<Player>0</Player>
+			<Position x="855.84662" z="220.24711"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65268"/>
+		</Entity>
+		<Entity uid="6056">
+			<Template>units/cart/infantry_swordsman_gaul_e</Template>
+			<Player>0</Player>
+			<Position x="852.81366" z="216.59345"/>
+			<Orientation y="2.73078"/>
+			<Actor seed="244"/>
+		</Entity>
+		<Entity uid="6057">
+			<Template>units/gaul/champion_fanatic</Template>
+			<Player>0</Player>
+			<Position x="637.19043" z="44.3743"/>
+			<Orientation y="2.66678"/>
+			<Actor seed="1276"/>
+		</Entity>
+		<Entity uid="6058">
+			<Template>units/gaul/champion_fanatic</Template>
+			<Player>0</Player>
+			<Position x="421.09858" z="991.29291"/>
+			<Orientation y="3.1088"/>
+			<Actor seed="9428"/>
 		</Entity>
 	</Entities>
 	<Paths/>

@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="685.739" y="91.1434" z="992.645"/>
+		<Position x="570.585" y="104.03" z="370.546"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -30021,7 +30021,7 @@
 		</Entity>
 		<Entity uid="5396">
 			<Template>actor|geology/stone_desert_furrowed_cliff.xml</Template>
-			<Position x="1438.20984" z="910.9651"/>
+			<Position x="1437.91285" z="911.41755"/>
 			<Orientation y="-0.09096"/>
 			<Actor seed="15740"/>
 		</Entity>
@@ -30039,7 +30039,7 @@
 		</Entity>
 		<Entity uid="5399">
 			<Template>actor|geology/stone_desert_furrowed_cliff.xml</Template>
-			<Position x="1437.00916" z="943.8772"/>
+			<Position x="1430.96802" z="941.79914"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="13968"/>
 		</Entity>
@@ -31708,28 +31708,28 @@
 		<Entity uid="5736">
 			<Template>gaia/tree/date_palm</Template>
 			<Player>0</Player>
-			<Position x="1436.76294" z="884.47077"/>
+			<Position x="1436.48414" z="883.61756"/>
 			<Orientation y="-1.66732"/>
 			<Actor seed="45094"/>
 		</Entity>
 		<Entity uid="5737">
 			<Template>gaia/tree/date_palm</Template>
 			<Player>0</Player>
-			<Position x="1445.93641" z="883.16169"/>
+			<Position x="1435.8567" z="879.34095"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5954"/>
 		</Entity>
 		<Entity uid="5738">
 			<Template>gaia/tree/date_palm</Template>
 			<Player>0</Player>
-			<Position x="1454.92688" z="900.16511"/>
+			<Position x="1427.97791" z="879.02009"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="31332"/>
 		</Entity>
 		<Entity uid="5739">
 			<Template>gaia/tree/date_palm</Template>
 			<Player>0</Player>
-			<Position x="1439.80213" z="961.14759"/>
+			<Position x="1421.64148" z="883.86231"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="30464"/>
 		</Entity>
@@ -38438,6 +38438,62 @@
 			<Position x="1244.8667" z="1215.38904"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="15448"/>
+		</Entity>
+		<Entity uid="6824">
+			<Template>gaia/ruins/metal_statue_isis</Template>
+			<Player>1</Player>
+			<Position x="278.32328" z="1186.8899"/>
+			<Orientation y="2.18918"/>
+			<Actor seed="20328"/>
+		</Entity>
+		<Entity uid="6825">
+			<Template>gaia/ruins/metal_statue_isis</Template>
+			<Player>2</Player>
+			<Position x="656.44123" z="270.6782"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18240"/>
+		</Entity>
+		<Entity uid="6826">
+			<Template>gaia/ruins/metal_statue_isis</Template>
+			<Player>4</Player>
+			<Position x="1381.96497" z="619.83942"/>
+			<Orientation y="-0.74311"/>
+			<Actor seed="50678"/>
+		</Entity>
+		<Entity uid="6827">
+			<Template>gaia/ruins/metal_statue_isis</Template>
+			<Player>3</Player>
+			<Position x="1134.46009" z="1437.61988"/>
+			<Orientation y="-2.45948"/>
+			<Actor seed="49532"/>
+		</Entity>
+		<Entity uid="6828">
+			<Template>structures/shrine_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1149.011" z="1194.0398"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2450"/>
+		</Entity>
+		<Entity uid="6829">
+			<Template>structures/shrine_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1144.22425" z="558.15198"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26808"/>
+		</Entity>
+		<Entity uid="6830">
+			<Template>structures/shrine_egyptian</Template>
+			<Player>0</Player>
+			<Position x="469.08548" z="518.59278"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65393"/>
+		</Entity>
+		<Entity uid="6831">
+			<Template>structures/shrine_egyptian</Template>
+			<Player>0</Player>
+			<Position x="540.25794" z="1102.23829"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="2238"/>
 		</Entity>
 	</Entities>
 	<Paths/>

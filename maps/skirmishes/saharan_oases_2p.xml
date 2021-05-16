@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="911.157" y="101.77" z="368.326"/>
+		<Position x="521.207" y="105.399" z="785.585"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -16770,24 +16770,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="19760"/>
 		</Entity>
-		<Entity uid="4883">
-			<Template>actor|structures/tent_arab.xml</Template>
-			<Position x="835.69227" z="330.57996"/>
-			<Orientation y="-2.92362"/>
-			<Actor seed="50994"/>
-		</Entity>
-		<Entity uid="4884">
-			<Template>actor|structures/tent_arab.xml</Template>
-			<Position x="457.2782" z="928.42066"/>
-			<Orientation y="0.42898"/>
-			<Actor seed="1146"/>
-		</Entity>
-		<Entity uid="4885">
-			<Template>actor|structures/tent_big.xml</Template>
-			<Position x="846.28547" z="343.73383"/>
-			<Orientation y="2.52926"/>
-			<Actor seed="266"/>
-		</Entity>
 		<Entity uid="4886">
 			<Template>actor|structures/tent_big.xml</Template>
 			<Position x="806.79297" z="1002.00367"/>
@@ -20738,14 +20720,14 @@
 			<Actor seed="7946"/>
 		</Entity>
 		<Entity uid="5588">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
-			<Position x="475.25794" z="943.75843"/>
+			<Position x="476.1732" z="943.10041"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62296"/>
 		</Entity>
 		<Entity uid="5589">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="805.0359" z="326.92911"/>
 			<Orientation y="2.35621"/>
@@ -21594,6 +21576,34 @@
 			<Position x="457.95072" z="695.62061"/>
 			<Orientation y="-0.45417"/>
 			<Actor seed="57486"/>
+		</Entity>
+		<Entity uid="5730">
+			<Template>structures/tent_desert</Template>
+			<Player>0</Player>
+			<Position x="834.77167" z="329.04761"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65375"/>
+		</Entity>
+		<Entity uid="5731">
+			<Template>structures/tent_desert</Template>
+			<Player>0</Player>
+			<Position x="854.57941" z="344.91773"/>
+			<Orientation y="-2.71053"/>
+			<Actor seed="6370"/>
+		</Entity>
+		<Entity uid="5732">
+			<Template>structures/tent_desert</Template>
+			<Player>0</Player>
+			<Position x="457.96097" z="931.33765"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4690"/>
+		</Entity>
+		<Entity uid="5733">
+			<Template>structures/tent_desert</Template>
+			<Player>0</Player>
+			<Position x="481.17594" z="903.92536"/>
+			<Orientation y="-0.61261"/>
+			<Actor seed="21812"/>
 		</Entity>
 	</Entities>
 	<Paths/>

@@ -27893,7 +27893,7 @@
 			<Actor seed="57892"/>
 		</Entity>
 		<Entity uid="4746">
-			<Template>structures/desert_trading_post</Template>
+			<Template>structures/trading_post_desert</Template>
 			<Player>0</Player>
 			<Position x="635.62067" z="1185.05274"/>
 			<Orientation y="2.35621"/>
