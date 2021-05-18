@@ -4,13 +4,14 @@
 		"Description": "Lush grasslands carpet the land, in places giving way to magnificent and diverse broadleaf forests. Poplars, pines, beeches and oaks all vie for supremacy but this root-war is a neverending struggle. Numerous apple trees dot the land, deer and sheep gorge themselves on this years fallen fruit."
 	},
 	"Environment": {
+		"SunColor": { "r": 1.032, "g": 0.99, "b": 0.866 },
 		"AmbientColor": { "r": 0.364706, "g": 0.376471, "b": 0.419608 },
 		"Water": {
 			"WaterBody": {
 				"Color": { "r": 0.419608, "g": 0.364706, "b": 0.313726 },
 				"Tint": { "r": 0.501961, "g": 0.501961, "b": 0.247059 },
 				"Murkiness": 0.97,
-				"Waviness": 4.01367
+				"Waviness": 5
 			}
 		},
 		"Fog": {
@@ -50,7 +51,7 @@
 		"fish": "gaia/fish/generic",
 		"mainHuntableAnimal": "gaia/fauna_deer",
 		"secondaryHuntableAnimal": "gaia/fauna_sheep",
-		"stoneLarge": "gaia/rock/temperate_large",
+		"stoneLarge": "gaia/rock/temperate_large_02",
 		"stoneSmall": "gaia/rock/temperate_cut",
 		"metalLarge": "gaia/ore/temperate_01",
 		"metalSmall": "gaia/ore/temperate_02",
@@ -66,5 +67,12 @@
 		"bushMedium": "actor|props/flora/bush_medit_me.xml",
 		"bushSmall": "actor|props/flora/bush_medit_sm.xml",
 		"tree": "actor|flora/trees/elm_dead.xml"
+	},
+	"ResourceCounts": {
+		"trees": {
+			"min": 500,
+			"max": 3000,
+			"forestProbability": 0.7
+		}
 	}
 }

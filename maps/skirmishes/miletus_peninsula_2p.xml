@@ -6,7 +6,7 @@
 		<SunColor r="1.01271" g="0.965053" b="0.837968"/>
 		<SunElevation angle="0.914253"/>
 		<SunRotation angle="-0.909753"/>
-		<AmbientColor r="0.352941" g="0.352941" b="0.352941"/>
+		<AmbientColor r="0.34902" g="0.34902" b="0.34902"/>
 		<Fog>
 			<FogFactor>0.00195313</FogFactor>
 			<FogThickness>0.0351563</FogThickness>
@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="499.634" y="102.677" z="312.829"/>
+		<Position x="476.073" y="129.26" z="-69.675"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -25996,35 +25996,35 @@
 		<Entity uid="9846">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="368.70432" z="91.62256"/>
+			<Position x="371.40122" z="85.70408"/>
 			<Orientation y="1.05864"/>
 			<Actor seed="47648"/>
 		</Entity>
 		<Entity uid="9847">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="373.52823" z="87.9351"/>
-			<Orientation y="2.57068"/>
+			<Position x="385.31293" z="95.74866"/>
+			<Orientation y="4.88825"/>
 			<Actor seed="8840"/>
 		</Entity>
 		<Entity uid="9848">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="377.12372" z="80.6228"/>
+			<Position x="376.58664" z="81.95922"/>
 			<Orientation y="2.80112"/>
 			<Actor seed="13496"/>
 		</Entity>
 		<Entity uid="9849">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="378.4423" z="76.30288"/>
-			<Orientation y="2.83335"/>
+			<Position x="411.46048" z="81.23252"/>
+			<Orientation y="0.72394"/>
 			<Actor seed="44114"/>
 		</Entity>
 		<Entity uid="9850">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="379.95417" z="72.60967"/>
+			<Position x="383.5188" z="76.03461"/>
 			<Orientation y="1.96824"/>
 			<Actor seed="2540"/>
 		</Entity>
@@ -26045,7 +26045,7 @@
 		<Entity uid="9853">
 			<Template>gaia/tree/bush_temperate</Template>
 			<Player>0</Player>
-			<Position x="403.03235" z="62.38549"/>
+			<Position x="405.37269" z="86.51301"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45916"/>
 		</Entity>
