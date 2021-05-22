@@ -5,6 +5,8 @@
 	},
 	"Environment": {
 		"SunColor": { "r": 1.032, "g": 0.99, "b": 0.866 },
+		"SunElevation": 0.846,
+		"SunRotation": -0.488,
 		"AmbientColor": { "r": 0.364706, "g": 0.376471, "b": 0.419608 },
 		"Water": {
 			"WaterBody": {
@@ -42,8 +44,8 @@
 		"road": "temperate_paving_03",
 		"roadWild": "temperate_paving_03",
 		"shoreBlend": "temperate_grass_dirt_01",
-		"shore": "temperate_rocks_dirt_01",
-		"water": "temperate_rocks_dirt_01"
+		"shore": "temperate_grass_mud_01",
+		"water": "temperate_mud_01"
 	},
 	"Gaia": {
 		"fruitBush": "gaia/fruit/berry_01",
@@ -64,7 +66,7 @@
 		"lillies": "actor|props/flora/water_lillies.xml",
 		"rockLarge": "actor|geology/stone_granite_med.xml",
 		"rockMedium": "actor|geology/stone_granite_small.xml",
-		"bushMedium": "actor|props/flora/bush_medit_me.xml",
+		"bushMedium": "gaia/tree/bush_temperate",
 		"bushSmall": "actor|props/flora/bush_medit_sm.xml",
 		"tree": "actor|flora/trees/elm_dead.xml"
 	},

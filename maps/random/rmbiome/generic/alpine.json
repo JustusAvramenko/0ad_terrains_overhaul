@@ -52,8 +52,8 @@
 		],
 		"tier4Terrain": "aegean_grass_dirt_03",
 		"hill": [
-			"alpine_rock_01_snow",
-			"alpine_rock_02_snow"
+            "alpine_rock_01",
+            "alpine_rock_02"
 		],
 		"dirt": [
 			"alpine_snow_01",
@@ -66,11 +66,11 @@
 		"water": "alpine_rocks_dirt_01"
 	},
 	"Gaia": {
-		"tree1": "gaia/tree/pine",
-		"tree2": "gaia/tree/fir",
-		"tree3": "gaia/tree/elm",
-		"tree4": "gaia/tree/oak_hungarian_autumn",
-		"tree5": "gaia/tree/fir_sapling",
+        "tree1": "gaia/tree/pine",
+        "tree2": "gaia/tree/fir",
+        "tree3": "gaia/tree/oak_hungarian_autumn",
+        "tree4": "gaia/tree/fir_sapling",
+        "tree5": "gaia/tree/elm",
 		"fruitBush": "gaia/fruit/berry_01",
 		"chicken": "gaia/fauna_chicken",
 		"mainHuntableAnimal": "gaia/fauna_goat",
