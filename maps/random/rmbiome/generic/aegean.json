@@ -1,9 +1,13 @@
 {
 	"Description": {
-		"Title": "Aegean",
+		"Title": "Aegean-Anatolian",
 		"Description": "Start in a region blessed with the Mediterranean climate, a warm and inviting land. The cypresses are in a perpetual struggle with the dominant fan palms while deer graze in their shadows, blissfully unaware."
 	},
 	"Environment": {
+		"SunColor": { "r": 1.023, "g": 0.923, "b": 0.714 },
+		"SunElevation": 0.90,
+		"SunRotation": -0.909,
+		"AmbientColor": { "r": 0.34902, "g": 0.34902, "b": 0.34902 },
 		"Water": {
 			"WaterBody": {
 				"Color": { "r": 0.024, "g": 0.212, "b": 0.024 },
@@ -18,9 +22,10 @@
 		},
 		"Postproc": {
 			"PostprocEffect": "hdr",
-			"Saturation": 1.02,
-			"Contrast": 1.12,
-			"Bloom": 0.176
+			"Brightness": -0.015,
+			"Saturation": 0.85,
+			"Contrast": 0.98,
+			"Bloom": 0.16
 		}
 	},
 	"Terrains": {
@@ -45,10 +50,10 @@
 		],
 		"dirt": [
 			"aegean_dirt_01",
-			"aegean_dirt_rocks_01"
+			"aegean_rocks_grass_01"
 		],
-		"road": "aegean_paving_01",
-		"roadWild": "aegean_paving_02",
+		"road": "aegean_paving_02",
+		"roadWild": "aegean_rocks_grass_01",
 		"shoreBlend": "aegean_sand_01",
 		"shore": "aegean_sand_02_wet",
 		"water": "aegean_ocean_coral_01"
@@ -64,14 +69,21 @@
 		"metalSmall": "gaia/ore/aegean_anatolian_01"
 	},
 	"Decoratives": {
-		"grass": "actor|props/flora/grass_soft_large_tall.xml",
-		"grassShort": "actor|props/flora/grass_soft_large.xml",
+		"grass": "gaia/tree/bush_temperate",
+		"grassShort": "actor|props/flora/bush_medit_sm.xml",
 		"reeds": "actor|props/flora/reeds_pond_lush_b.xml",
 		"lillies": "actor|props/flora/water_lillies.xml",
 		"rockLarge": "actor|geology/stone_granite_large.xml",
 		"rockMedium": "actor|geology/stone_granite_med.xml",
-		"bushMedium": "actor|props/flora/bush_medit_me.xml",
+		"bushMedium": "gaia/tree/bush_temperate",
 		"bushSmall": "actor|props/flora/bush_medit_sm.xml",
 		"tree": "actor|flora/trees/cypress_mediterranean_wild.xml"
+	},
+	"ResourceCounts": {
+		"trees": {
+			"min": 500,
+			"max": 2000,
+			"forestProbability": 0.6
+		}
 	}
 }
