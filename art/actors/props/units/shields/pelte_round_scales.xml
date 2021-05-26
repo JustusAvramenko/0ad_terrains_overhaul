@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="Base">
+      <mesh>props/shield/pelte_02_front.dae</mesh>
+      <props>
+        <prop actor="props/units/shields/pelte_back_wooden.xml" attachpoint="back"/>
+      </props>
+      <textures>
+        <texture file="props/shield/pelte_round_scale_norm.png" name="normTex"/>
+        <texture file="props/shield/pelte_round_scale_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Scale A">
+      <textures>
+        <texture file="props/shield/pelte_round_scale_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Scale B">
+      <textures>
+        <texture file="props/shield/pelte_round_scale_b.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+   <material>player_trans_parallax_spec.xml</material>
+</actor>
