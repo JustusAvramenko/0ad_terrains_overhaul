@@ -6,7 +6,7 @@
 		<SunColor r="1.01271" g="0.965053" b="0.837968"/>
 		<SunElevation angle="0.914253"/>
 		<SunRotation angle="-0.909753"/>
-		<AmbientColor r="0.34902" g="0.34902" b="0.34902"/>
+		<AmbientColor r="0.301961" g="0.301961" b="0.301961"/>
 		<Fog>
 			<FogFactor>0.00209961</FogFactor>
 			<FogThickness>0.0351563</FogThickness>
@@ -18,7 +18,7 @@
 				<Color r="0.184314" g="0.337255" b="0.439216"/>
 				<Tint r="0.0156863" g="0.984314" b="0.792157"/>
 				<Height>20.0394</Height>
-				<Waviness>3.02734</Waviness>
+				<Waviness>4.58008</Waviness>
 				<Murkiness>0.831055</Murkiness>
 				<WindAngle>1.20878</WindAngle>
 			</WaterBody>
@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="660.1" y="125.577" z="812.522"/>
+		<Position x="497.051" y="94.1894" z="754.931"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -7340,11 +7340,6 @@
 			<Position x="974.54712" z="589.70966"/>
 			<Orientation y="-3.0481"/>
 		</Entity>
-		<Entity uid="3241">
-			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="1125.40375" z="549.05887"/>
-			<Orientation y="0.09098"/>
-		</Entity>
 		<Entity uid="3242">
 			<Template>actor|geology/stone_medit_med.xml</Template>
 			<Position x="765.35535" z="541.0994"/>
@@ -8953,7 +8948,7 @@
 		<Entity uid="4217">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
-			<Position x="1058.96949" z="287.04917"/>
+			<Position x="917.69343" z="157.68332"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="4219">
@@ -10002,24 +9997,6 @@
 			<Position x="991.0171" z="532.8206"/>
 			<Orientation y="1.85474"/>
 			<Actor seed="47568"/>
-		</Entity>
-		<Entity uid="4614">
-			<Template>actor|props/flora/bush_dry_a.xml</Template>
-			<Position x="1116.72022" z="554.19101"/>
-			<Orientation y="1.21941"/>
-			<Actor seed="1772"/>
-		</Entity>
-		<Entity uid="4615">
-			<Template>actor|props/flora/bush_dry_a.xml</Template>
-			<Position x="1129.76001" z="557.41926"/>
-			<Orientation y="-2.81814"/>
-			<Actor seed="3470"/>
-		</Entity>
-		<Entity uid="4616">
-			<Template>actor|props/flora/bush_dry_a.xml</Template>
-			<Position x="1125.34803" z="538.57712"/>
-			<Orientation y="-2.46538"/>
-			<Actor seed="28812"/>
 		</Entity>
 		<Entity uid="4618">
 			<Template>actor|props/flora/bush_dry_a.xml</Template>
@@ -22050,7 +22027,7 @@
 		<Entity uid="9222">
 			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
-			<Position x="364.41211" z="162.16306"/>
+			<Position x="396.89701" z="139.93479"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="14486"/>
 		</Entity>
@@ -22071,7 +22048,7 @@
 		<Entity uid="9225">
 			<Template>gaia/tree/cretan_date_palm_tall</Template>
 			<Player>0</Player>
-			<Position x="385.37342" z="167.50371"/>
+			<Position x="387.24625" z="166.73377"/>
 			<Orientation y="-2.14979"/>
 			<Actor seed="58312"/>
 		</Entity>
@@ -33104,7 +33081,7 @@
 		<Entity uid="10932">
 			<Template>gaia/rock/aegean_cut</Template>
 			<Player>0</Player>
-			<Position x="832.30231" z="124.24695"/>
+			<Position x="831.91773" z="123.49358"/>
 			<Orientation y="2.58486"/>
 			<Actor seed="964"/>
 		</Entity>
@@ -33117,7 +33094,7 @@
 		<Entity uid="10934">
 			<Template>gaia/rock/aegean_cut</Template>
 			<Player>0</Player>
-			<Position x="825.4676" z="119.9219"/>
+			<Position x="827.1626" z="119.11059"/>
 			<Orientation y="-0.43664"/>
 			<Actor seed="31184"/>
 		</Entity>
@@ -33263,7 +33240,7 @@
 		<Entity uid="10958">
 			<Template>gaia/rock/aegean_cut</Template>
 			<Player>0</Player>
-			<Position x="818.93519" z="113.73487"/>
+			<Position x="822.25226" z="114.93906"/>
 			<Orientation y="1.61947"/>
 			<Actor seed="38600"/>
 		</Entity>
