@@ -2,11 +2,8 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant name="Base">
-      <mesh>props/shield/pelte_02_front.dae</mesh>
-      <props>
-        <prop actor="props/units/shields/pelte_back_wooden.xml" attachpoint="back"/>
-      </props>
+    <variant frequency="1" name="model">
+      <mesh>props/shield/pelte_wood_round_shoulder_left.dae</mesh>
     </variant>
   </group>
   <group>
@@ -18,5 +15,5 @@
       </textures>
     </variant>
   </group>
-   <material>player_trans_parallax_spec.xml</material>
+  <material>no_trans_norm_spec.xml</material>
 </actor>
