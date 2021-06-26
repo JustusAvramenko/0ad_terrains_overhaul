@@ -56,8 +56,7 @@
 		"stoneLarge": "gaia/rock/temperate_large_02",
 		"stoneSmall": "gaia/rock/temperate_cut",
 		"metalLarge": "gaia/ore/temperate_01",
-		"metalSmall": "gaia/ore/temperate_02",
-		"tree3": "gaia/fruit/apple"
+		"metalSmall": "gaia/ore/temperate_02"
 	},
 	"Decoratives": {
 		"grass": "actor|props/flora/grass_soft_large_tall.xml",
@@ -72,9 +71,33 @@
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 1000,
-			"max": 3000,
-			"forestProbability": 0.7
+			"min": 2000,
+			"max": 4000,
+			"forestProbability": 0.9
+		},
+		"fruit": {
+			"min": 5,
+			"max": 7
+		},
+		"fish": {
+			"min": 2,
+			"max": 3
+		},
+		"mainHunt": {
+			"min": 10,
+			"max": 12
+		},
+		"secHunt": {
+			"min": 6,
+			"max": 8
+		},
+		"stone": {
+			"min": 2,
+			"max": 5
+		},
+		"metal": {
+			"min": 2,
+			"max": 5
 		}
 	}
 }
