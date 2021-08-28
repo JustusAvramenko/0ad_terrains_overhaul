@@ -1,28 +1,6 @@
 {
 	"Environment": {
-		"SunColor": { "r": 1.032, "g": 0.99, "b": 0.866 },
-		"SunElevation": 0.846,
-		"SunRotation": -0.488,
-		"AmbientColor": { "r": 0.364706, "g": 0.376471, "b": 0.419608 },
-		"Water": {
-			"WaterBody": {
-				"Color": { "r": 0.419608, "g": 0.364706, "b": 0.313726 },
-				"Tint": { "r": 0.501961, "g": 0.501961, "b": 0.247059 },
-				"Murkiness": 0.97,
-				"Waviness": 5
-			}
-		},
-		"Fog": {
-			"FogThickness": 0.0,
-			"FogFactor": 0.0024,
-			"FogColor": { "r": 0.894118, "g": 0.894118, "b": 0.894118 }
-		},
-		"Postproc": {
-			"PostprocEffect": "hdr",
-			"Saturation": 0.8,
-			"Contrast": 1.1,
-			"Bloom": 0.16
-		}
+		"AmbientColor": { "r": 0.364706, "g": 0.376471, "b": 0.419608 }
 	},
 	"Terrains": {
 		"mainTerrain": [
@@ -47,23 +25,23 @@
 			"temperate_grass_mud_01"
 		],
 		"road": "temperate_paving_03",
-		"roadWild": "temperate_paving_03",
+		"roadWild": "temperate_paving_01",
 		"shoreBlend": "temperate_grass_dirt_01",
-		"shore": "temperate_grass_mud_01",
-		"water": "temperate_mud_01"
+		"shore": "temperate_rocks_dirt_01",
+		"water": "temperate_rocks_dirt_01"
 	},
 	"Gaia": {
 		"tree1": "gaia/tree/oak",
-		"tree2": "gaia/tree/oak_hungarian",
-		"tree3": "gaia/fruit/oak_holly",
-		"tree4": "gaia/tree/maple",
-		"tree5": "gaia/tree/pine",
+		"tree2": "gaia/tree/oak_holly",
+		"tree3": "gaia/tree/oak_hungarian",
+		"tree4": "gaia/tree/pine_black",
+		"tree5": "gaia/tree/pine_maritime",
 		"fruitBush": "gaia/fruit/berry_01",
 		"chicken": "gaia/fauna_chicken",
 		"fish": "gaia/fish/generic",
 		"mainHuntableAnimal": "gaia/fauna_deer",
 		"secondaryHuntableAnimal": "gaia/fauna_sheep",
-		"stoneLarge": "gaia/rock/temperate_large_02",
+		"stoneLarge": "gaia/rock/temperate_large",
 		"stoneSmall": "gaia/rock/temperate_cut",
 		"metalLarge": "gaia/ore/temperate_01",
 		"metalSmall": "gaia/ore/temperate_02"
@@ -75,39 +53,15 @@
 		"lillies": "actor|props/flora/water_lillies.xml",
 		"rockLarge": "actor|geology/stone_granite_med.xml",
 		"rockMedium": "actor|geology/stone_granite_small.xml",
-		"bushMedium": "gaia/tree/bush_temperate",
+		"bushMedium": "actor|props/flora/bush_medit_me.xml",
 		"bushSmall": "actor|props/flora/bush_medit_sm.xml",
 		"tree": "actor|flora/trees/elm_dead.xml"
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 1000,
+			"min": 500,
 			"max": 3000,
 			"forestProbability": 0.7
-		},
-		"fruit": {
-			"min": 5,
-			"max": 7
-		},
-		"fish": {
-			"min": 2,
-			"max": 3
-		},
-		"mainHunt": {
-			"min": 5,
-			"max": 7
-		},
-		"secHunt": {
-			"min": 2,
-			"max": 3
-		},
-		"stone": {
-			"min": 2,
-			"max": 5
-		},
-		"metal": {
-			"min": 2,
-			"max": 5
 		}
 	}
 }

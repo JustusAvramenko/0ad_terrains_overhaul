@@ -14,7 +14,7 @@ function currentBiome()
 function setSelectedBiome()
 {
 	// TODO: Replace ugly default for atlas by a dropdown
-	setBiome(g_MapSettings.Biome || "generic/temperate");
+	setBiome(g_MapSettings.Biome || "generic/alpine");
 }
 
 function setBiome(biomeID)

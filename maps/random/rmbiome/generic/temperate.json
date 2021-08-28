@@ -23,8 +23,8 @@
 		},
 		"Postproc": {
 			"PostprocEffect": "hdr",
-			"Saturation": 0.8,
-			"Contrast": 1.1,
+			"Saturation": 0.95,
+			"Contrast": 1.05,
 			"Bloom": 0.16
 		}
 	},
@@ -54,9 +54,10 @@
 		"mainHuntableAnimal": "gaia/fauna_deer",
 		"secondaryHuntableAnimal": "gaia/fauna_sheep",
 		"stoneLarge": "gaia/rock/temperate_large_02",
-		"stoneSmall": "gaia/rock/temperate_cut",
+		"stoneSmall": "gaia/rock/temperate_small",
 		"metalLarge": "gaia/ore/temperate_01",
-		"metalSmall": "gaia/ore/temperate_02"
+		"metalSmall": "gaia/ore/temperate_small",
+		"tree3": "gaia/fruit/apple"
 	},
 	"Decoratives": {
 		"grass": "actor|props/flora/grass_soft_large_tall.xml",
@@ -71,33 +72,9 @@
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 2000,
-			"max": 4000,
-			"forestProbability": 0.9
-		},
-		"fruit": {
-			"min": 5,
-			"max": 7
-		},
-		"fish": {
-			"min": 2,
-			"max": 3
-		},
-		"mainHunt": {
-			"min": 10,
-			"max": 12
-		},
-		"secHunt": {
-			"min": 6,
-			"max": 8
-		},
-		"stone": {
-			"min": 2,
-			"max": 5
-		},
-		"metal": {
-			"min": 2,
-			"max": 5
+			"min": 1000,
+			"max": 3000,
+			"forestProbability": 0.7
 		}
 	}
 }

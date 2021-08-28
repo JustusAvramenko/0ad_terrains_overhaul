@@ -5,7 +5,7 @@
 	},
 	"Environment": {
 		"SkySet": "stormy",
-		"SunColor": { "r": 1.00866, "g": 1.0295, "b": 1.06284 },
+		"SunColor": { "r": 0.98, "g": 1.01, "b": 1.045 },
 		"SunElevation": 0.502494,
 		"SunRotation": -0.626047,
 		"AmbientColor": { "r": 0.294118, "g": 0.392157, "b": 0.494118 },
@@ -24,9 +24,9 @@
 		},
 		"Postproc": {
 			"PostprocEffect": "hdr",
-			"Brightness": -0.015625,
-			"Saturation": 0.96,
-			"Contrast": 0.98,
+			"Brightness": 0,
+			"Saturation": 1,
+			"Contrast": 1,
 			"Bloom": 0.16
 		}
 	},
@@ -77,15 +77,15 @@
 		"fish": "gaia/fish/tuna",
 		"secondaryHuntableAnimal": "gaia/fauna_goat",
 		"stoneLarge": "gaia/rock/temperate_large_03",
-		"stoneSmall": "gaia/rock/temperate_large_03",
+		"stoneSmall": "gaia/rock/temperate_small",
 		"metalLarge": "gaia/ore/temperate_02",
-		"metalSmall": "gaia/ore/temperate_01"
+		"metalSmall": "gaia/ore/temperate_small"
 	},
 	"Decoratives": {
 		"grass": "gaia/tree/bush_temperate_winter",
 		"grassShort": "gaia/tree/bush_temperate_winter",
 		"reeds": "actor|props/flora/reeds_pond_dry.xml",
-		"lillies": "",
+		"lillies": "actor|geology/stone_granite_small.xml",
 		"rockLarge": "actor|geology/stone_granite_large.xml",
 		"rockMedium": "actor|geology/stone_granite_med.xml",
 		"bushMedium": "gaia/tree/bush_temperate_winter",
@@ -94,7 +94,7 @@
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 1000,
+			"min": 500,
 			"max": 2000,
 			"forestProbability": 0.6
 		}

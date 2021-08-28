@@ -7,10 +7,10 @@
 		"SunColor": { "r": 1.023, "g": 0.923, "b": 0.714 },
 		"SunElevation": 0.90,
 		"SunRotation": -0.909,
-		"AmbientColor": { "r": 0.34902, "g": 0.34902, "b": 0.34902 },
+		"AmbientColor": { "r": 0.4, "g": 0.4, "b": 0.4 },
 		"Water": {
 			"WaterBody": {
-				"Color": { "r": 0.024, "g": 0.212, "b": 0.024 },
+				"Color": { "r": 0.024, "g": 0.212, "b": 0.212 },
 				"Tint": { "r": 0.133, "g": 0.725, "b": 0.855 },
 				"Murkiness": 0.8,
 				"Waviness": 3
@@ -22,9 +22,9 @@
 		},
 		"Postproc": {
 			"PostprocEffect": "hdr",
-			"Brightness": -0.015,
-			"Saturation": 0.85,
-			"Contrast": 0.98,
+			"Brightness": 0,
+			"Saturation": 1,
+			"Contrast": 1,
 			"Bloom": 0.16
 		}
 	},
@@ -55,8 +55,8 @@
 		"road": "aegean_paving_02",
 		"roadWild": "aegean_rocks_grass_01",
 		"shoreBlend": "aegean_sand_01",
-		"shore": "aegean_sand_02_wet",
-		"water": "aegean_ocean_coral_01"
+		"shore": "aegean_sand_01",
+		"water": "aegean_sand_02_wet"
 	},
 	"Gaia": {
 		"chicken": "gaia/fauna_chicken",
@@ -65,8 +65,8 @@
 		"secondaryHuntableAnimal": "gaia/fauna_sheep",
 		"stoneLarge": "gaia/rock/mediterranean_large",
 		"stoneSmall": "gaia/rock/mediterranean_small",
-		"metalLarge": "gaia/ore/aegean_anatolian_02",
-		"metalSmall": "gaia/ore/aegean_anatolian_01"
+		"metalLarge": "gaia/ore/aegean_anatolian_01",
+		"metalSmall": "gaia/ore/temperate_small"
 	},
 	"Decoratives": {
 		"grass": "gaia/tree/bush_temperate",
@@ -81,7 +81,7 @@
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 1000,
+			"min": 500,
 			"max": 2000,
 			"forestProbability": 0.6
 		}
