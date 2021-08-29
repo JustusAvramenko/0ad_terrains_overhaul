@@ -71,8 +71,8 @@
 		"mainHuntableAnimal": "gaia/fauna_peacock",
 		"fish": "gaia/fish/generic",
 		"secondaryHuntableAnimal": "gaia/fauna_elephant_asian",
-		"stoneLarge": "gaia/rock/tropical_large",
-		"stoneSmall": "gaia/rock/tropical_small",
+		"stoneLarge": "gaia/rock/india_large",
+		"stoneSmall": "gaia/rock/india_small",
 		"metalLarge": "gaia/ore/india_01",
 		"metalSmall": "gaia/ore/india_02"
 	},
@@ -90,8 +90,8 @@
 	"ResourceCounts": {
 		"trees": {
 			"min": 2000,
-			"max": 5000,
-			"forestProbability": 0.8
+			"max": 4000,
+			"forestProbability": 0.7
 		}
 	}
 }
