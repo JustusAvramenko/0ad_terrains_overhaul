@@ -71,13 +71,13 @@
 		"mainHuntableAnimal": "gaia/fauna_peacock",
 		"fish": "gaia/fish/generic",
 		"secondaryHuntableAnimal": "gaia/fauna_elephant_asian",
-		"stoneLarge": "gaia/rock/temperate_large_02",
+		"stoneLarge": "gaia/rock/tropical_large",
 		"stoneSmall": "gaia/rock/tropical_small",
 		"metalLarge": "gaia/ore/india_01",
-		"metalSmall": "gaia/ore/alpine_small"
+		"metalSmall": "gaia/ore/india_02"
 	},
 	"Decoratives": {
-		"grass": "actor|props/flora/grass_tropic_field.xml",
+		"grass": "actor|props/flora/grass_soft_large.xml",
 		"grassShort": "actor|props/flora/plant_tropic_a.xml",
 		"reeds": "actor|flora/trees/palm_nipa.xml",
 		"lillies": "actor|props/flora/water_lillies.xml",
@@ -89,8 +89,8 @@
 	},
 	"ResourceCounts": {
 		"trees": {
-			"min": 1000,
-			"max": 6000,
+			"min": 2000,
+			"max": 5000,
 			"forestProbability": 0.8
 		}
 	}
