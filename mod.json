@@ -4,5 +4,5 @@
 	"label": "0 A.D. Terrains Overhaul",
 	"url": "https://github.com/JustusAvramenko/delenda_est",
 	"description": "A complete overhaul mod for 0 A.D. Empires Ascendant's terrain textures.",
-	"dependencies": ["0ad>=0.0.24"]
+	"dependencies": ["0ad>=0.0.26"]
 }
