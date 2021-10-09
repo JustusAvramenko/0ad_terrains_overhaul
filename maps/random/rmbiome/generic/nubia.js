@@ -15,7 +15,8 @@ function setupBiome_nubia()
 		],
 		[
 			"gaia/tree/date_palm",
-			"gaia/tree/baobab"
+			"gaia/tree/acacia",
+			"gaia/tree/acacia"
 		],
 		[
 			"gaia/tree/date_palm",
@@ -26,6 +27,7 @@ function setupBiome_nubia()
 	[g_Gaia.tree4, g_Gaia.tree5] = pickRandom([
 		[
 			"gaia/tree/date_palm_dead",
+			"gaia/tree/date_palm",
 			"gaia/tree/date_palm"
 		],
 		[
@@ -34,7 +36,7 @@ function setupBiome_nubia()
 		],
 		[
 			"gaia/tree/acacia",
-			"gaia/tree/acacia"
+			"gaia/tree/palm_doum"
 		]
 	]);
 }

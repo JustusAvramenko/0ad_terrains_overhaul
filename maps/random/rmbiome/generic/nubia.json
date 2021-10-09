@@ -61,7 +61,7 @@
 		"water": "nubia_sand_02_wet"
 	},
 	"Gaia": {
-		"tree3": "gaia/tree/baobab_4_dead",
+		"tree3": "gaia/tree/acacia_large",
 		"fruitBush": "gaia/fruit/date",
 		"chicken": "gaia/fauna_chicken",
 		"fish": "gaia/fish/generic",
@@ -72,7 +72,7 @@
 		"metalSmall": "gaia/ore/desert_small"
 	},
 	"Decoratives": {
-		"grass": "actor|props/flora/grass_savanna_field_tall.xml",
+		"grass": "actor|props/flora/grass_savanna.xml",
 		"grassShort": "actor|props/flora/grass_savanna.xml",
 		"reeds": "actor|props/flora/papyrus.xml",
 		"lillies": "actor|props/flora/water_lillies.xml",
@@ -80,7 +80,7 @@
 		"rockMedium": "actor|geology/stone_savanna_med.xml",
 		"bushMedium": "gaia/tree/bush_tropic",
 		"bushSmall": "actor|props/flora/bush_dry_a.xml",
-		"tree": "gaia/tree/date_palm_dead"
+		"tree": "gaia/tree/acacia_large"
 	},
 	"ResourceCounts": {
 		"trees": {
