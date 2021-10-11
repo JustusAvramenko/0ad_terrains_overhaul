@@ -14,7 +14,7 @@ function currentBiome()
 function setSelectedBiome()
 {
 	// TODO: Replace ugly default for atlas by a dropdown
-	setBiome(g_MapSettings.Biome || "generic/india");
+	setBiome(g_MapSettings.Biome || "generic/nubia");
 }
 
 function setBiome(biomeID)
