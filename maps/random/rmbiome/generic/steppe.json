@@ -4,17 +4,16 @@
 		"Description": "Wide grasslands stretching to the horizon, without any trees blocking the view. The Steppe is home to large herds of wild horses, which graze peacefully on the empty land, but flee quickly if you try to catch them."
 	},
 	"Environment": {
-		"SkySet": "sunrise",
-		"SunColor": { "r": 0.85866, "g": 0.85095, "b": 0.73284 },
-		"SunElevation": 0.421456,
-		"SunRotation": -1.526047,
-		"AmbientColor": { "r": 0.504118, "g": 0.462157, "b": 0.604118 },
+		"SunColor": { "r": 1.032, "g": 0.99, "b": 0.866 },
+		"SunElevation": 0.65,
+		"SunRotation": -0.488,
+		"AmbientColor": { "r": 0.364706, "g": 0.376471, "b": 0.419608 },
 		"Water": {
 			"WaterBody": {
-				"Color": { "r": 0.419608, "g": 0.364706, "b": 0.343726 },
-				"Tint": { "r": 0.501961, "g": 0.501961, "b": 0.307059 },
+				"Color": { "r": 0.419608, "g": 0.364706, "b": 0.313726 },
+				"Tint": { "r": 0.501961, "g": 0.501961, "b": 0.247059 },
 				"Murkiness": 0.97,
-				"Waviness": 4.01367
+				"Waviness": 5
 			}
 		},
 		"Fog": {
@@ -30,13 +29,13 @@
 	},
 	"Terrains": {
 		"mainTerrain": [
-			"steppe_grass_03"
+			"steppe_grass_02"
 		],
-		"forestFloor1": "steppe_grass_dirt_01",
-		"forestFloor2": "aegean_grass_dirt_03",
+		"forestFloor1": "temperate_forestfloor_01",
+		"forestFloor2": "temperate_forestfloor_02",
 		"cliff": [
-			"aegean_cliff_seaside_01",
-			"steppe_rocks_dirt_01"
+			"temperate_cliff_02",
+			"temperate_cliff_02"
 		],
 		"tier1Terrain": [
 			"steppe_grass_02"
@@ -50,43 +49,43 @@
 		"tier4Terrain": "steppe_grass_dirt_01",
 		"hill": [
 			"steppe_rocks_dirt_01",
-			"steppe_rocks_dirt_01"
+			"temperate_rocks_dirt_01"
 		],
 		"dirt": [
 			"steppe_grass_dirt_01",
-			"india_grass_dirt_02"
+			"steppe_grass_mud_01"
 		],
-		"road": "sahara_paving_stones_01",
-		"roadWild": "sahara_paving_stones_01",
+		"road": "temperate_paving_03",
+		"roadWild": "steppe_rocks_dirt_01",
 		"shoreBlend": "steppe_grass_03",
 		"shore": "india_grass_dirt_02",
 		"water": "steppe_grass_mud_01"
 	},
 	"Gaia": {
-		"tree1": "gaia/tree/bush_steppe_01",
-		"tree2": "gaia/tree/bush_steppe_02",
-		"tree3": "gaia/tree/bush_steppe_01",
-		"tree4": "gaia/tree/bush_steppe_03",
-		"tree5": "gaia/tree/bush_steppe_02",
+		"tree1": "gaia/tree/bush_temperate",
+		"tree2": "gaia/tree/bush_badlands",
+		"tree3": "gaia/tree/bush_temperate",
+		"tree4": "gaia/tree/bush_badlands",
+		"tree5": "gaia/tree/bush_temperate",
 		"fruitBush": "gaia/fruit/berry_01",
 		"chicken": "gaia/fauna_chicken",
 		"mainHuntableAnimal": "gaia/fauna_horse",
 		"fish": "gaia/fish/tuna",
-		"secondaryHuntableAnimal": "gaia/fauna_horse",
-		"stoneLarge": "gaia/rock/desert_large",
-		"stoneSmall": "gaia/rock/tropical_small",
-		"metalLarge": "gaia/ore/sahara_01",
-		"metalSmall": "gaia/ore/desert_small"
+		"secondaryHuntableAnimal": "gaia/fauna_deer",
+		"stoneLarge": "gaia/rock/temperate_large_02",
+		"stoneSmall": "gaia/rock/temperate_small",
+		"metalLarge": "gaia/ore/temperate_01",
+		"metalSmall": "gaia/ore/temperate_small"
 	},
 	"Decoratives": {
-		"grass": "actor|props/flora/grass_temp_field_brown.xml",
-		"grassShort": "actor|props/flora/grass_temp_field_brown.xml",
+		"grass": "actor|flora/trees/lavender_bush_01.xml",
+		"grassShort": "actor|flora/trees/lavender_bush_02.xml",
 		"reeds": "actor|props/flora/reeds_pond_lush_a.xml",
 		"lillies": "actor|props/flora/water_lillies.xml",
 		"rockLarge": "actor|geology/stone_granite_med.xml",
-		"rockMedium": "actor|props/flora/grass_temp_field_brown.xml",
-		"bushMedium": "actor|geology/stone_granite_med.xml",
-		"bushSmall": "actor|props/flora/grass_temp_field_brown.xml",
+		"rockMedium": "actor|flora/trees/lavender_bush_01.xml",
+		"bushMedium": "actor|flora/trees/lavender_bush_02.xml",
+		"bushSmall": "actor|flora/trees/lavender_bush_01.xml",
 		"tree": "actor|flora/trees/temperate_bush_biome.xml"
 	},
 	"ResourceCounts": {

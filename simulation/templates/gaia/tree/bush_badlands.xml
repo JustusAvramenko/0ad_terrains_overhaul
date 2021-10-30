@@ -3,9 +3,6 @@
   <Identity>
     <SpecificName>Hardy Bush</SpecificName>
   </Identity>
-  <ResourceSupply>
-    <Max>75</Max>
-  </ResourceSupply>
   <VisualActor>
     <Actor>props/flora/bush_tempe_a.xml</Actor>
   </VisualActor>

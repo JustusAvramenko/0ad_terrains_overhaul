@@ -4,12 +4,6 @@
     <Circle radius="5"/>
     <Height>15.0</Height>
   </Footprint>
-  <Identity>
-    <SpecificName>Bush</SpecificName>
-  </Identity>
-  <ResourceSupply>
-    <Max>100</Max>
-  </ResourceSupply>
   <VisualActor>
     <Actor>props/flora/bush_tempe_underbrush.xml</Actor>
   </VisualActor>
