@@ -30,8 +30,7 @@
 	},
 	"Terrains": {
 		"mainTerrain": [
-			"autumn_grass_02",
-			"autumn_grass_03"
+			"autumn_grass_02"
 		],
 		"forestFloor1": "autumn_forestfloor_01",
 		"forestFloor2": "autumn_forestfloor_02",
@@ -43,13 +42,13 @@
 			"autumn_grass_01"
 		],
 		"tier2Terrain": [
-			"autumn_grass_02"
+			"autumn_grass_05"
 		],
 		"tier3Terrain": [
-			"autumn_grass_04"
+			"autumn_grass_03"
 		],
 		"tier4Terrain": [
-			"autumn_grass_05"
+			"autumn_grass_04"
 		],
 		"hill": [
 			"temperate_rocks_dirt_01"
