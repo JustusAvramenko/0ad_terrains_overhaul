@@ -73,10 +73,7 @@
         "tree5": "gaia/tree/maple_autumn",
 		"fruitBush": "gaia/fruit/berry_01",
 		"chicken": "gaia/fauna_chicken",
-		"fish": [
-			"gaia/fish/generic",
-			"gaia/fish/tuna"
-		],
+		"fish": "gaia/fish/tuna",
 		"mainHuntableAnimal": "gaia/fauna_deer",
 		"secondaryHuntableAnimal": "gaia/fauna_sheep",
 		"stoneLarge": "gaia/rock/temperate_large_02",
@@ -93,7 +90,7 @@
 		"rockMedium": "actor|geology/stone_granite_small.xml",
 		"bushMedium": "gaia/tree/bush_temperate_autumn",
 		"bushSmall": "actor|props/flora/bush_medit_sm_dry.xml",
-		"tree": "gaia/tree/elm_dead.xml"
+		"tree": "gaia/tree/dead.xml"
 	},
 	"ResourceCounts": {
 		"trees": {
