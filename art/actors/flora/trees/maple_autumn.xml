@@ -26,6 +26,11 @@
         <texture file="gaia/maple_tree_autumn_b.png" name="baseTex"/>
       </textures>
     </variant>
+    <variant frequency="1" name="green-c">
+      <textures>
+        <texture file="gaia/maple_tree_a.png" name="baseTex"/>
+      </textures>
+    </variant>
   </group>
   <material>basic_trans_wind.xml</material>
 </actor>

@@ -24,6 +24,21 @@
         <texture file="gaia/oak_holly_autumn_3.png" name="baseTex"/>
       </textures>
     </variant>
+    <variant frequency="1" name="green-a">
+      <textures>
+        <texture file="gaia/oak_holly_1.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="green-b">
+      <textures>
+        <texture file="gaia/oak_holly_2.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="green-c">
+      <textures>
+        <texture file="gaia/oak_holly_3.png" name="baseTex"/>
+      </textures>
+    </variant>
   </group>
   <group>
     <variant frequency="2" name="1">
