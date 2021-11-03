@@ -2,52 +2,38 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="bush_1">
+    <variant frequency="1" name="mesh_bush_1">
       <mesh>gaia/temp_bush_01.dae</mesh>
-      <textures>
-        <texture file="gaia/temperate_bush_autumn_02.png" name="baseTex"/>
-      </textures>
     </variant>
-    <variant frequency="1" name="bush_2">
+    <variant frequency="1" name="mesh_bush_2">
       <mesh>gaia/temp_bush_02.dae</mesh>
-      <textures>
-        <texture file="gaia/temperate_bush_autumn_01.png" name="baseTex"/>
-      </textures>
     </variant>
-    <variant frequency="1" name="bush_3">
-      <mesh>gaia/temp_bush_02.dae</mesh>
-      <textures>
-        <texture file="gaia/temperate_bush_autumn_02.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="bush_4">
-      <mesh>gaia/temp_bush_01.dae</mesh>
-      <textures>
-        <texture file="gaia/temperate_bush_autumn_01.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="bush_5">
+    <variant frequency="1" name="mesh_bush_3">
       <mesh>gaia/temp_bush_03.dae</mesh>
-      <textures>
-        <texture file="gaia/temperate_bush_autumn_02.png" name="baseTex"/>
-      </textures>
     </variant>
-    <variant frequency="1" name="bush_6">
-      <mesh>gaia/temp_bush_03.dae</mesh>
+    <variant frequency="1" name="mesh_bush_4">
+      <mesh>gaia/temp_bush_04.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="tex_aut_bush_1">
       <textures>
         <texture file="gaia/temperate_bush_autumn_01.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="bush_7">
-      <mesh>gaia/temp_bush_04.dae</mesh>
+    <variant frequency="2" name="tex_aut_bush_2">
       <textures>
         <texture file="gaia/temperate_bush_autumn_02.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="bush_8">
-      <mesh>gaia/temp_bush_04.dae</mesh>
+    <variant frequency="1" name="tex_sum_bush_1">
       <textures>
-        <texture file="gaia/temperate_bush_autumn_01.png" name="baseTex"/>
+        <texture file="gaia/temperate_bush_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="tex_sum_bush_2">
+      <textures>
+        <texture file="gaia/temperate_bush_02.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
