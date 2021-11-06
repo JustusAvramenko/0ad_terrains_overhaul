@@ -39,13 +39,13 @@
 			"temperate_cliff_02"
 		],
 		"tier1Terrain": [
-			"autumn_grass_01"
+			"autumn_grass_dirt_01"
 		],
 		"tier2Terrain": [
-			"autumn_grass_05"
+			"autumn_grass_01"
 		],
 		"tier3Terrain": [
-			"autumn_grass_03"
+			"autumn_grass_mud_01"
 		],
 		"tier4Terrain": [
 			"autumn_grass_04"
