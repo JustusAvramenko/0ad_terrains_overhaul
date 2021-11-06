@@ -96,7 +96,7 @@
 		"trees": {
 			"min": 1000,
 			"max": 3000,
-			"forestProbability": 0.7
+			"forestProbability": 0.75
 		}
 	}
 }
