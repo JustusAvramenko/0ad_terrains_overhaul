@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Scenario version="7">
-	<Terrain patches="16" texture="temperate_grass_02" priority="0" height="2048"/>
+	<Terrain patches="16" texture="temperate_grass_04" priority="0" height="4096"/>
 	<Environment>
 		<SkySet>cumulus</SkySet>
 		<SunColor r="0.986592" g="0.954245" b="0.832943"/>
@@ -18,7 +18,7 @@
 				<Type>ocean</Type>
 				<Color r="0.0784314" g="0.247059" b="0.419608"/>
 				<Tint r="0" g="1" b="0.501961"/>
-				<Height>20.0394</Height>
+				<Height>0</Height>
 				<Waviness>3.02734</Waviness>
 				<Murkiness>0.882813</Murkiness>
 				<WindAngle>0.233165</WindAngle>
@@ -70,7 +70,7 @@
 		],
 		"CircularMap": true,
 		"VictoryConditions": [
-			"conquest_structures"
+			"conquest"
 		]
 	}
 	]]></ScriptSettings>
