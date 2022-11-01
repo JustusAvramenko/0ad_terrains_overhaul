@@ -1,0 +1,94 @@
+{
+	"Description": {
+		"Title": "Persia",
+		"Description": "A semi-arid and mountainous region with lush valleys and scrublands, it is the birthplace of many empires in antiquity, inclduing those forged by the Medes, Achaemenids, Parthians, and Sasanians. "
+	},
+	"Environment": {
+		"SunColor": { "r": 0.984314, "g": 0.94902, "b": 0.831373, "a": 0 },
+		"SunElevation": 1.85,
+		"SunRotation": 0.0,
+		"AmbientColor": { "r": 0.356863, "g": 0.356863, "b": 0.356863 },
+		"Water": {
+			"WaterBody": {
+				"Color": { "r": 0.584, "g": 0.824, "b": 0.929 },
+				"Tint": { "r": 0.569, "g": 0.965, "b": 0.945 },
+				"Murkiness": 0.45,
+				"Waviness": 1.5
+			}
+		},
+		"Fog": {
+			"FogThickness": 0.035,
+			"FogFactor": 0.002,
+			"FogColor": { "r": 0.929412, "g": 0.956863, "b": 0.976471 }
+		},
+		"Postproc": {
+			"PostprocEffect": "hdr",
+			"Contrast": 0.984,
+			"Saturation": 0.846,
+			"Bloom": 0.15
+		}
+	},
+	"Terrains": {
+		"mainTerrain": [
+			"persia_grass_01",
+			"persia_grass_02",
+			"persia_grass_dirt_01",
+			"persia_grass_dirt_02"
+		],
+		"forestFloor1": "persia_forestfloor_01",
+		"forestFloor2": "persia_forestfloor_02",
+		"cliff": "persia_mountain_01",
+		"tier1Terrain": "persia_grass_dirt_02",
+		"tier2Terrain": "persia_grass_dirt_03",
+		"tier3Terrain": "persia_dirt_plants_01",
+		"tier4Terrain": "persia_dirt_plants_01",
+		"hill": [
+			"persia_rocks_01",
+			"persia_dirt_plants_01"
+		],
+		"dirt": [
+			"persia_rocks_dirt_01",
+			"persia_rocks_01",
+			"persia_dirt_plants_01"
+		],
+		"road": "persia_paving_01",
+		"roadWild": "persia_paving_02",
+		"shoreBlend": "persia_grass_dirt_03",
+		"shore": "persia_rocks_dirt_02",
+		"water": "persia_rocks_dirt_01"
+	},
+	"Gaia": {
+		"tree1": "gaia/tree/pine_maritime",
+		"tree2": "gaia/tree/pine_black",
+		"tree3": "gaia/tree/oak_hungarian",
+		"tree4": "gaia/tree/juniper_prickly",
+		"tree5": "gaia/tree/date_palm",
+		"fruitBush": "gaia/fruit/date",
+		"chicken": "gaia/fauna_chicken",
+		"mainHuntableAnimal": "gaia/fauna_deer",
+		"secondaryHuntableAnimal": "gaia/fauna_camel",
+		"fish": "gaia/fish/tuna",
+		"stoneLarge": "gaia/rock/desert_large",
+		"stoneSmall": "gaia/rock/india_small",
+		"metalLarge": "gaia/ore/sahara_01",
+		"metalSmall": ""
+	},
+	"Decoratives": {
+		"grass": "actor|props/flora/grass_field_flowering_tall.xml",
+		"grassShort": "actor|props/flora/grass_temp_field.xml",
+		"reeds": "actor|props/flora/cattails.xml",
+		"lillies": "actor|props/flora/water_lillies.xml",
+		"rockLarge": "actor|geology/stone_india_small.xml",
+		"rockMedium": "actor|geology/stone_india_small.xml",
+		"bushMedium": "actor|flora/trees/tropic_bush_biome.xml",
+		"bushSmall": "actor|props/flora/plant_tropic_large.xml",
+		"tree": "actor|flora/trees/pine_maritime_short.xml"
+	},
+	"ResourceCounts": {
+		"trees": {
+			"min": 800,
+			"max": 1600,
+			"forestProbability": 0.5
+		}
+	}
+}
