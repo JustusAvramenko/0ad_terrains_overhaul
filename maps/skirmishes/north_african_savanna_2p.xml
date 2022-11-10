@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="656.284" y="123.139" z="66.7159"/>
+		<Position x="270.784" y="109.271" z="163.285"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -83,7 +83,7 @@
 		<Entity uid="14">
 			<Template>gaia/ore/savanna_01</Template>
 			<Player>0</Player>
-			<Position x="268.09195" z="368.84443"/>
+			<Position x="287.72657" z="363.27594"/>
 			<Orientation y="-3.15271"/>
 			<Actor seed="24712"/>
 		</Entity>
@@ -864,14 +864,14 @@
 		</Entity>
 		<Entity uid="154">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="246.19092" z="364.40589"/>
-			<Orientation y="0.57683"/>
+			<Position x="268.62604" z="368.93183"/>
+			<Orientation y="5.19063"/>
 			<Actor seed="375"/>
 		</Entity>
 		<Entity uid="155">
 			<Template>actor|props/structures/construction/scaffold_small.xml</Template>
-			<Position x="282.46357" z="387.81843"/>
-			<Orientation y="0.4087"/>
+			<Position x="248.59519" z="385.40119"/>
+			<Orientation y="-2.35265"/>
 			<Actor seed="12617"/>
 		</Entity>
 		<Entity uid="246">
@@ -1350,7 +1350,7 @@
 		</Entity>
 		<Entity uid="325">
 			<Template>actor|props/flora/bush_desert_dry_a.xml</Template>
-			<Position x="203.4044" z="360.5112"/>
+			<Position x="266.87778" z="361.99805"/>
 			<Orientation y="-2.91486"/>
 			<Actor seed="50272"/>
 		</Entity>
@@ -1678,12 +1678,6 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="28731"/>
 		</Entity>
-		<Entity uid="380">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="209.51526" z="342.29242"/>
-			<Orientation y="2.69318"/>
-			<Actor seed="28731"/>
-		</Entity>
 		<Entity uid="381">
 			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
 			<Position x="215.38834" z="335.30137"/>
@@ -1694,12 +1688,6 @@
 			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
 			<Position x="217.59696" z="334.46567"/>
 			<Orientation y="0.48551"/>
-			<Actor seed="6991"/>
-		</Entity>
-		<Entity uid="383">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="218.96073" z="341.97779"/>
-			<Orientation y="2.73862"/>
 			<Actor seed="6991"/>
 		</Entity>
 		<Entity uid="384">
@@ -1791,72 +1779,6 @@
 			<Position x="256.22297" z="320.92222"/>
 			<Orientation y="-2.09638"/>
 			<Actor seed="26715"/>
-		</Entity>
-		<Entity uid="399">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="215.20719" z="383.40482"/>
-			<Orientation y="2.6268"/>
-			<Actor seed="26715"/>
-		</Entity>
-		<Entity uid="400">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="218.5706" z="377.51038"/>
-			<Orientation y="2.41193"/>
-			<Actor seed="1542"/>
-		</Entity>
-		<Entity uid="401">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="222.01771" z="372.37635"/>
-			<Orientation y="2.53371"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="402">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="226.59897" z="368.39487"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="403">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="226.46192" z="371.9466"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="404">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="224.4964" z="378.91062"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="405">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="223.71384" z="376.13605"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="406">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="219.60572" z="380.54487"/>
-			<Orientation y="-1.463"/>
-			<Actor seed="14532"/>
-		</Entity>
-		<Entity uid="407">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="211.4947" z="376.36335"/>
-			<Orientation y="-0.08176"/>
-			<Actor seed="5462"/>
-		</Entity>
-		<Entity uid="408">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="210.19425" z="380.95624"/>
-			<Orientation y="-1.3755"/>
-			<Actor seed="13739"/>
-		</Entity>
-		<Entity uid="409">
-			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
-			<Position x="205.42493" z="376.82001"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="8984"/>
 		</Entity>
 		<Entity uid="410">
 			<Template>actor|props/flora/bush_juniper_prickly.xml</Template>
@@ -3845,7 +3767,7 @@
 		<Entity uid="1002">
 			<Template>gaia/tree/date_palm</Template>
 			<Player>0</Player>
-			<Position x="227.71866" z="337.70307"/>
+			<Position x="224.49473" z="369.03785"/>
 			<Orientation y="-1.74099"/>
 			<Actor seed="59712"/>
 		</Entity>
@@ -4146,8 +4068,8 @@
 		<Entity uid="1045">
 			<Template>gaia/fauna_giraffe</Template>
 			<Player>0</Player>
-			<Position x="136.80768" z="472.43073"/>
-			<Orientation y="0.73371"/>
+			<Position x="170.68647" z="420.45597"/>
+			<Orientation y="-0.30323"/>
 			<Actor seed="18231"/>
 		</Entity>
 		<Entity uid="1046">
@@ -31832,8 +31754,8 @@
 		<Entity uid="5761">
 			<Template>gaia/rock/savanna_large</Template>
 			<Player>0</Player>
-			<Position x="305.72715" z="385.46766"/>
-			<Orientation y="1.01072"/>
+			<Position x="237.6851" z="389.69687"/>
+			<Orientation y="-4.42411"/>
 			<Actor seed="65277"/>
 		</Entity>
 		<Entity uid="5762">
@@ -31846,8 +31768,8 @@
 		<Entity uid="5763">
 			<Template>gaia/rock/savanna_large</Template>
 			<Player>0</Player>
-			<Position x="325.04532" z="377.94813"/>
-			<Orientation y="2.80031"/>
+			<Position x="257.08072" z="390.92084"/>
+			<Orientation y="-1.82831"/>
 			<Actor seed="6940"/>
 		</Entity>
 		<Entity uid="5764">
@@ -31874,7 +31796,7 @@
 		<Entity uid="5767">
 			<Template>gaia/rock/savanna_large</Template>
 			<Player>0</Player>
-			<Position x="278.57099" z="389.96076"/>
+			<Position x="264.06867" z="372.79633"/>
 			<Orientation y="-2.9778"/>
 			<Actor seed="8050"/>
 		</Entity>
@@ -39768,7 +39690,7 @@
 		</Entity>
 		<Entity uid="7109">
 			<Template>skirmish/structures/default_civil_centre</Template>
-			<Player>2</Player>
+			<Player>0</Player>
 			<Position x="656.18006" z="281.49024"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="28734"/>
