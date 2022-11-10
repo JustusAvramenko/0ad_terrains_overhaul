@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="270.784" y="109.271" z="163.285"/>
+		<Position x="174.235" y="108.665" z="762.59"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -40640,7 +40640,7 @@
 		</Entity>
 		<Entity uid="7256">
 			<Template>actor|geology/stone_savanna_med_sand.xml</Template>
-			<Position x="170.39481" z="809.2251"/>
+			<Position x="170.3936" z="808.27045"/>
 			<Orientation y="0.54621"/>
 			<Actor seed="3708"/>
 		</Entity>
@@ -41004,7 +41004,7 @@
 		<Entity uid="7308">
 			<Template>gaia/tree/bush_mediterranean</Template>
 			<Player>0</Player>
-			<Position x="176.07126" z="824.36475"/>
+			<Position x="176.66938" z="820.1969"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="47484"/>
 		</Entity>
@@ -43835,19 +43835,131 @@
 			<Orientation y="-1.57081"/>
 			<Actor seed="34104"/>
 		</Entity>
-		<Entity uid="7793">
-			<Template>gaia/rock/savanna_large</Template>
-			<Player>0</Player>
-			<Position x="168.55372" z="824.25007"/>
-			<Orientation y="-2.40836"/>
-			<Actor seed="9437"/>
-		</Entity>
 		<Entity uid="7795">
 			<Template>gaia/fauna_lion</Template>
 			<Player>0</Player>
 			<Position x="171.39032" z="815.76063"/>
 			<Orientation y="1.55643"/>
 			<Actor seed="53410"/>
+		</Entity>
+		<Entity uid="7796">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="244.69471" z="909.6485"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37374"/>
+		</Entity>
+		<Entity uid="7797">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="255.14292" z="919.27161"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23565"/>
+		</Entity>
+		<Entity uid="7798">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="256.19968" z="901.74262"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="23513"/>
+		</Entity>
+		<Entity uid="7799">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="231.71695" z="893.46265"/>
+			<Orientation y="2.39161"/>
+			<Actor seed="23513"/>
+		</Entity>
+		<Entity uid="7800">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="244.7414" z="881.42701"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="59171"/>
+		</Entity>
+		<Entity uid="7801">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="245.83741" z="859.5854"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="41775"/>
+		</Entity>
+		<Entity uid="7802">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="258.55527" z="870.24085"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="7803">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="276.426" z="870.75763"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4140"/>
+		</Entity>
+		<Entity uid="7804">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="290.77897" z="858.84595"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="10262"/>
+		</Entity>
+		<Entity uid="7805">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="287.52607" z="855.67402"/>
+			<Orientation y="-1.99189"/>
+			<Actor seed="10262"/>
+		</Entity>
+		<Entity uid="7806">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="279.97312" z="847.21125"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63768"/>
+		</Entity>
+		<Entity uid="7807">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="305.00394" z="854.66248"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63768"/>
+		</Entity>
+		<Entity uid="7808">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="343.5073" z="922.81269"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="61083"/>
+		</Entity>
+		<Entity uid="7809">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="356.90558" z="910.26746"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42566"/>
+		</Entity>
+		<Entity uid="7810">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="362.10901" z="891.95655"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44981"/>
+		</Entity>
+		<Entity uid="7811">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="355.45173" z="877.49897"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="44981"/>
+		</Entity>
+		<Entity uid="7812">
+			<Template>gaia/rock/savanna_large</Template>
+			<Player>0</Player>
+			<Position x="170.49616" z="824.90296"/>
+			<Orientation y="-2.63105"/>
+			<Actor seed="7120"/>
 		</Entity>
 	</Entities>
 	<Paths/>
